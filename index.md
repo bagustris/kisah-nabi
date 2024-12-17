@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ```mermaid
 graph TD
     Adam --> Idris

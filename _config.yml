@@ -3,7 +3,7 @@ exclude:
   - script
 
 sass:
-  style: :compressed
+  style: compressed
 
 theme: jekyll-theme-primer
 
@@ -16,5 +16,5 @@ github:
     path: "/"
   repository_url: "https://github.com/bagustris/prophets"
   
-title: Jekyll Theme Primer
-description: Primer is a Jekyll theme for GitHub Pages
+title: Prophets
+description: Geneology and description of Prophets in Islam

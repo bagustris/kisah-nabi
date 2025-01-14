@@ -31,6 +31,7 @@ Al-hijr (25:38-29):
 "Dan (ingatlah) ketika Tuhanmu berfirman kepada malaikat, 'Sesungguhnya Aku akan menciptakan manusia dari tanah liat kering (yang berasal) dari lumpur hitam yang diberi bentuk. Maka apabila Aku telah menyempurnakan kejadiannya dan telah meniupkan ke dalamnya ruh (ciptaan)-Ku, maka tunduklah kamu kepadanya dengan bersujud.'"
 </font>
 
+
 Nabi Adam diciptakan dengan segala kemuliaan dan diberi kedudukan yang mulia pula. Allah memberikan perintah kepada para malaikat dan golongan jin untuk bersujud kepada Nabi Adam. Sesuai dengan sifatnya, iblis menolak perintah tersebut. Iblis yang menolak perintah Allah pun mendapat hukuman. Sejak saat itu, iblis diusir dari surga dan dilaknat oleh Allah hingga hari kiamat tiba. Iblis merasa kecewa sekaligus marah.
 
 Iblis tidak menyangka akan diusir dari surga untuk selamanya. Maka, iblis bersumpah kepada Allah bahwa mereka akan menggoda Nabi Adam dan seluruh anak cucunya untuk berbuat dosa. Nabi Adam adalah manusia pertama dan satu-satunya. Dia tidak memiliki ayah, ibu, ataupun saudara. Dia menghabiskan hari-harinya sendirian.

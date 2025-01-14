@@ -27,8 +27,6 @@ Nabi Adam diturunkan di sebuah puncak gunung yang terletak di India, sedangkan H
 
 <p lang='ar' dir='rtl' align=right><font size=6 color="#77216F"> 
 
-قَالَ ٱهْبِطَا مِنْهَا جَمِيعًۭا ۖ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۭ ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًۭى فَمَنِ ٱتَّبَعَ هُدَاىَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ
-
 </font>
 </p>
 

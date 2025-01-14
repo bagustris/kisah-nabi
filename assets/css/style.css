@@ -10,4 +10,5 @@ body {
 
 p[dir='rtl'] {
   font-family: 'Amiri Quran', serif;
+  font-size: 6;
 }

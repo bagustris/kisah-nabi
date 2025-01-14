@@ -7,7 +7,6 @@ Allah pun mengutus para malaikat-Nya untuk menghentikan kekacauan itu. Pasukan m
 
 Al-baqarah (2:30): 
 
-<font color="#77216F"> 
 <p lang='ar' dir='rtl' align=right>
 
 وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً ۖ قَالُوا أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ ۖ قَالَ إِنِّي أَعْلَمُ مَا لَا تَعْلَمُونَ 
@@ -15,7 +14,6 @@ Al-baqarah (2:30):
 </p>
 
 "Ingatlah ketika Tuhanmu berfirman kepada para malaikat, 'Sesungguhnya Aku hendak menjadikan seorang khalifah di bumi.' Mereka berkata, 'Mengapa Engkau hendak menjadikan (khalifah) di bumi itu orang yang akan membuat kerusakan padanya dan menumpahkan darah, padahal kami senantiasa bertasbih dengan memuji-Mu dan menyucikan nama-Mu?' Tuhan berfirman, 'Sesungguhnya Aku mengetahui apa yang tidak kamu ketahui.'"
-</font>
 
 Allah menciptakan manusia pertama dengan tangan-Nya sendiri. Manusia diciptakan dari segumpal tanah liat. Allah membentuknya dengan sangat sempurna. Setelah tubuh itu selesai dibuat, Allah meniupkan ruh ke dalamnya. Maka manusia pertama pun lahir, dialah Nabi Adam alaihissalam.
 

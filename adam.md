@@ -75,4 +75,6 @@ Thaha (20:123):
 
 Sejak saat itu, Nabi Adam dan Hawa membangun kehidupan di bumi. Nabi Adam menanam tujuh butir biji gandum yang dibawa dari surga. Setiap biji yang ditanam tumbuh menjadi 100.000 biji. Mereka belajar bercocok tanam, merawat gandum, memanen, dan membuat roti. Nabi Adam dan Hawa pun hidup dengan penuh syukur kepada Allah Subhanahu Wa Ta'ala.
 
+Mukjizat ataupun keistimewaan yang diberikan kepada Nabi Adam AS yaitu diciptakan langsung melalui Tangan-Nya, ditiupkan langsung roh ciptaan-Nya, memerintahkan para malaikat untuk bersujud kepadanya, lalu diajarkan langsung oleh Allah SWT nama-nama segala sesuatu.
+
 </div>

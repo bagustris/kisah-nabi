@@ -64,7 +64,7 @@ Allah berfirman, "Apakah kamu lari dari-Ku, wahai Adam?" Nabi Adam menjawab, "Wa
 
 Nabi Adam diturunkan di sebuah puncak gunung yang terletak di India, sedangkan Hawa diturunkan di Jeddah, Arab Saudi. Tempat yang terpisah sangat jauh. Selama ratusan tahun, mereka berdua saling mencari satu sama lain. Akhirnya, setelah 200 tahun, mereka bertemu di sebuah bukit bernama Jabal Rahmah.
 
-Thaha (20):123 
+Thaha (20:123):   
 
 <p lang='ar' dir='rtl' align=right><font size=6 color="#77216F"> 
  قَالَ اهْبِطَا مِنْهَا جَمِيعًا ۖ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّي هُدًى فَمَنِ اتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ

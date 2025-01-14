@@ -7,24 +7,29 @@ Allah pun mengutus para malaikat-Nya untuk menghentikan kekacauan itu. Pasukan m
 
 Al-baqarah (2:30): 
 
-<p lang='ar' dir='rtl' align=right><font size=6 color="#77216F"> 
+<font size=6 color="#77216F"> 
+<p lang='ar' dir='rtl' align=right>
 
 وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً ۖ قَالُوا أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ ۖ قَالَ إِنِّي أَعْلَمُ مَا لَا تَعْلَمُونَ 
 
-</font></p>
+</p>
 
 "Ingatlah ketika Tuhanmu berfirman kepada para malaikat, 'Sesungguhnya Aku hendak menjadikan seorang khalifah di bumi.' Mereka berkata, 'Mengapa Engkau hendak menjadikan (khalifah) di bumi itu orang yang akan membuat kerusakan padanya dan menumpahkan darah, padahal kami senantiasa bertasbih dengan memuji-Mu dan menyucikan nama-Mu?' Tuhan berfirman, 'Sesungguhnya Aku mengetahui apa yang tidak kamu ketahui.'"
-
+</font>
 
 Allah menciptakan manusia pertama dengan tangan-Nya sendiri. Manusia diciptakan dari segumpal tanah liat. Allah membentuknya dengan sangat sempurna. Setelah tubuh itu selesai dibuat, Allah meniupkan ruh ke dalamnya. Maka manusia pertama pun lahir, dialah Nabi Adam alaihissalam.
 
 Al-hijr (25:38-29):  
 
-<p lang='ar' dir='rtl' align=right><font size=6 color="#77216F"> 
+<font color="#77216F"> 
+<p lang='ar' dir='rtl' align=right>
 
 وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن صَلْصَالٍ مِّنْ حَمَإٍ مَّسْنُونٍ ‎﴿٢٨﴾‏ فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ ‎﴿٢٩﴾‏
 
-</font></p>
+</p>
+
+"Dan (ingatlah) ketika Tuhanmu berfirman kepada malaikat, 'Sesungguhnya Aku akan menciptakan manusia dari tanah liat kering (yang berasal) dari lumpur hitam yang diberi bentuk. Maka apabila Aku telah menyempurnakan kejadiannya dan telah meniupkan ke dalamnya ruh (ciptaan)-Ku, maka tunduklah kamu kepadanya dengan bersujud.'"
+</font>
 
 Nabi Adam diciptakan dengan segala kemuliaan dan diberi kedudukan yang mulia pula. Allah memberikan perintah kepada para malaikat dan golongan jin untuk bersujud kepada Nabi Adam. Sesuai dengan sifatnya, iblis menolak perintah tersebut. Iblis yang menolak perintah Allah pun mendapat hukuman. Sejak saat itu, iblis diusir dari surga dan dilaknat oleh Allah hingga hari kiamat tiba. Iblis merasa kecewa sekaligus marah.
 

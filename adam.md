@@ -1,4 +1,6 @@
 <div markdown="1">
+# Nabi Adam  
+
 Nabi Adam alaihissalam adalah manusia pertama di bumi. Malaikat dan iblis adalah dua makhluk ciptaan Allah Subhanahu Wa Ta'ala. Malaikat diciptakan dari cahaya, mereka memiliki sifat taat, sedangkan iblis diciptakan dari api, mereka memiliki sifat pembangkang. Jauh sebelum manusia diciptakan, iblis telah menempati bumi ini. Mereka membuat keonaran, saling menyakiti, dan berselisih.
 
 Allah pun mengutus para malaikat-Nya untuk menghentikan kekacauan itu. Pasukan malaikat bertarung dengan para iblis. Akibatnya, bumi pun mengalami kerusakan. Maka, ketika Allah berfirman ingin menciptakan khalifah, pemimpin di bumi, para malaikat pun bertanya, "Untuk apa menciptakan makhluk yang akan merusak bumi?" Namun, Allah lebih tahu dan Maha Tahu atas segalanya.
@@ -26,7 +28,7 @@ Allah berfirman, "Apakah kamu lari dari-Ku, wahai Adam?" Nabi Adam menjawab, "Wa
 Nabi Adam diturunkan di sebuah puncak gunung yang terletak di India, sedangkan Hawa diturunkan di Jeddah, Arab Saudi. Tempat yang terpisah sangat jauh. Selama ratusan tahun, mereka berdua saling mencari satu sama lain. Akhirnya, setelah 200 tahun, mereka bertemu di sebuah bukit bernama Jabal Rahmah.
 
 <p lang='ar' dir='rtl' align=right><font size=6 color="#77216F"> 
-
+ قَالَ اهْبِطَا مِنْهَا جَمِيعًا ۖ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّي هُدًى فَمَنِ اتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ
 </font>
 </p>
 

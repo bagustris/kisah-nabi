@@ -4,9 +4,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap');
 
-/* body {
+body {
   font-family: 'Amiri Quran', serif;
-} */
+}
 
 p[dir='rtl'] {
   font-family: 'Amiri Quran', serif;

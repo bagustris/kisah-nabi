@@ -1,0 +1,20 @@
+
+
+**Kisah Nabi Ishak alaihissalam - Anak Nabi Ibrahim yang Bijaksana**
+
+Nabi Ibrahim dikenal sebagai seorang yang sangat bijaksana dan ramah kepada tamu. Setiap tamu yang datang ke rumah beliau akan disambut dengan baik dan dijamu dengan hidangan istimewa. Suatu ketika, Nabi Ibrahim meminta Sarah untuk menyembelih seekor anak sapi dan menghidangkannya kepada tamu-tamu yang datang. Namun, para tamu tersebut tidak menyentuh hidangan yang disajikan, yang membuat Nabi Ibrahim khawatir. Ia bertanya-tanya apakah para tamu tersebut tidak puas dengan makanan yang diberikan.
+
+Kemudian, para tamu tersebut berkata, "Jangan kamu takut. Sesungguhnya kami adalah malaikat yang diutus oleh Allah, dan akan lahir seorang anak laki-laki yang saleh." Mendengar berita tersebut, Sarah yang sedang berdiri di balik tirai terkejut dan berkata, "Apakah aku akan melahirkan anak? Padahal aku sudah tua dan suamiku pun sudah tua." Namun, Allah Maha Kuasa, dan Sarah akhirnya hamil meskipun usianya telah mencapai 90 tahun, sementara Nabi Ibrahim berusia 120 tahun. Beberapa bulan kemudian, lahirlah seorang anak laki-laki yang diberi nama Ishak, anak kedua Nabi Ibrahim yang kelak menjadi nabi Allah.
+
+Nabi Ishak dilahirkan dan dibesarkan di kota Kanaan, Palestina. Ketika masih kecil, banyak orang yang meragukan asal-usulnya, karena sulit dipercaya bahwa seorang wanita tua seperti Sarah bisa melahirkan. Namun, keraguan tersebut hilang ketika Nabi Ishak tumbuh dewasa. Wajahnya semakin mirip dengan Nabi Ibrahim, dan sifat-sifatnya pun sangat mirip. Nabi Ishak dibesarkan dengan bimbingan Nabi Ibrahim dan tumbuh menjadi anak yang saleh, yang turut berdakwah kepada umatnya.
+
+Nabi Ishak kemudian menikah dengan seorang wanita dari keluarga Nahor, yang berasal dari Haran. Mereka berdua pun berjuang untuk menyebarkan tauhid kepada umat. Namun, Nabi Ishak mendapat ujian ketika istrinya mandul, sama seperti ibunya Sarah. Berita ini membuat mereka sedih, namun mereka tidak pernah putus asa. Nabi Ishak terus berdoa kepada Allah agar diberi keturunan. Setelah penantian yang panjang, doa mereka pun dikabulkan, dan mereka dikaruniai anak kembar yang sangat diberkahi.
+
+Nabi Ishak dan istrinya mendidik kedua anak mereka dengan ilmu agama yang baik, sehingga mereka tumbuh dengan iman dan takwa yang kuat. Ketika anak-anak mereka dewasa, salah satu di antaranya, Yakub, memilih untuk menemani ayahnya berdakwah, sementara anak lainnya, Esau, menjadi seorang pemburu hebat. Namun, Esau merasa cemburu karena ayahnya lebih menyayangi Yakub, dan akhirnya timbul permusuhan di antara kedua saudara tersebut.
+
+Untuk mencegah permusuhan, Nabi Ishak menyarankan Yakub untuk pergi ke Irak dan tinggal bersama pamannya, Laban, untuk belajar lebih banyak. Nabi Ishak dikaruniai umur yang panjang, yaitu 180 tahun, dan selama hidupnya beliau memimpin umatnya dengan baik. Sifat ramah beliau membuat umatnya hidup rukun dan makmur. Sebelum wafat, Nabi Ishak meninggalkan wasiat ajaran agama yang benar kepada umatnya, termasuk cara beribadah yang benar seperti salat, puasa, zakat, dan haji, serta menjauhi perbuatan maksiat.
+
+Setelah Nabi Ishak wafat pada usia 180 tahun, beliau dimakamkan di sebuah desa bernama Hebron, yang terletak di Palestina. Di tempat itu pula, Nabi Ibrahim, Sarah, Nabi Yakub, dan Leah (istri Nabi Yakub) dimakamkan. Di daerah tersebut kemudian dibangun Masjid Ibrahim sebagai tempat penghormatan bagi para nabi.
+
+
+Cerita ini mengajarkan kita tentang kesabaran, keteguhan iman, dan pentingnya mendidik anak dengan ajaran agama yang benar, serta menunjukkan bagaimana Allah mengabulkan doa umat-Nya pada waktu yang tepat.

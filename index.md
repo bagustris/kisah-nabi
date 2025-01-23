@@ -14,25 +14,23 @@ graph TD
     Nuh -.-> Saleh
     Hud -.-> Ibrahim
     Hud -.-> Luth
-    Luth ~~~ Ayyub
     Ibrahim --> Ismail
     Ibrahim --> Ishaq
     Ishaq --> Yakub
     Yakub --> Yusuf
     Ishaq -..-> Ayyub
-    Ibrahim -.-> Syuaib
-    Syuaib -.-> Musa
-    Ayyub ---> Zulkifli
-    Yakub -..-> Daud
-    Yakub -.-> Musa
-    Yakub -.-> Harun
+    Ibrahim -...-> Syuaib
+    Ayyub --> Zulkifli
+    Yakub -...-> Daud
+    Yakub -..-> Musa
+    Yakub -..-> Harun
     Daud --> Sulaiman
     Sulaiman -..-> Zakariya
-    Sulaiman -.....-> Isa
+    Sulaiman -....-> Isa
     Harun -...-> Ilyas
     Harun -...-> Ilyasa
     Harun -.....-> Zakariya
-    Yakub -....-> Yunus
+    Yakub -.....-> Yunus
     Zakariya --> Yahya
     Ismail -..........-> Muhammad
 
@@ -42,12 +40,13 @@ graph TD
     click Hud href "https://bagustris.github.io/kisah-nabi/hud"
     click Saleh href "https://bagustris.github.io/kisah-nabi/saleh"
     click Ibrahim href "https://bagustris.github.io/kisah-nabi/ibrahim"
+    click Luth href "https://bagustris.github.io/kisah-nabi/luth"
     click Ismail href "https://bagustris.github.io/kisah-nabi/ismail"
     click Ishaq href "https://bagustris.github.io/kisah-nabi/ishaq"
-    click Yaqub href "https://bagustris.github.io/kisah-nabi/yaqub"
+    click Yakub href "https://bagustris.github.io/kisah-nabi/yakub"
     click Yusuf href "https://bagustris.github.io/kisah-nabi/yusuf"
     click Ayyub href "https://bagustris.github.io/kisah-nabi/ayyub"
-    click Shuaib href "https://bagustris.github.io/kisah-nabi/shuaib"
+    click Syuaib href "https://bagustris.github.io/kisah-nabi/syuaib"
     click Musa href "https://bagustris.github.io/kisah-nabi/musa"
     click Harun href "https://bagustris.github.io/kisah-nabi/harun"
     click Zulkifli href "https://bagustris.github.io/kisah-nabi/zulkifli"
@@ -62,3 +61,8 @@ graph TD
     click Muhammad href "https://bagustris.github.io/kisah-nabi/muhammad"
 ```
 
+Keterangan:  
+- Jalur keturunan diambil dari pihak ayah.
+- Cara membaca: dari atas ke bawah, dari kiri ke kanan.
+- Nabi yang memiliki anak diberi panah lurus.
+- Panah putus-putus menunjukkan keturunan tidak langsung (cucu, cicit, dst).

@@ -8,7 +8,7 @@ Allah pun mengutus para malaikat-Nya untuk menghentikan kekacauan itu. Pasukan m
 Al-baqarah (2:30): 
 
 <p lang='ar' dir='rtl' align=right>
-<font size=6 line-height=1.5 color="#77216F"> 
+<font size=6 style="line-height: 1.2" color="#77216F"> 
 
 وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً ۖ قَالُوا أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ ۖ قَالَ إِنِّي أَعْلَمُ مَا لَا تَعْلَمُونَ 
 </font>

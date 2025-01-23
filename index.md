@@ -26,13 +26,12 @@ graph TD
     Yakub -..-> Harun
     Daud --> Sulaiman
     Sulaiman -..-> Zakariya
-    Sulaiman -....-> Isa
+    Sulaiman -...-> Isa
     Harun -...-> Ilyas
     Harun -...-> Ilyasa
-    Harun -.....-> Zakariya
     Yakub -.....-> Yunus
     Zakariya --> Yahya
-    Ismail -..........-> Muhammad
+    Ismail -.........-> Muhammad
 
     click Adam href "https://bagustris.github.io/kisah-nabi/adam"
     click Idris href "https://bagustris.github.io/kisah-nabi/idris"

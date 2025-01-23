@@ -14,6 +14,7 @@ graph TD
     Nuh -.-> Saleh
     Hud -.-> Ibrahim
     Hud -.-> Luth
+    Luth ~~~ Ayyub
     Ibrahim --> Ismail
     Ibrahim --> Ishaq
     Ishaq --> Yakub
@@ -21,7 +22,7 @@ graph TD
     Ishaq -..-> Ayyub
     Ibrahim -.-> Syuaib
     Syuaib -.-> Musa
-    Ayyub -..-> Dzulkifli
+    Ayyub ---> Zulkifli
     Yakub -..-> Daud
     Yakub -.-> Musa
     Yakub -.-> Harun
@@ -49,7 +50,7 @@ graph TD
     click Shuaib href "https://bagustris.github.io/kisah-nabi/shuaib"
     click Musa href "https://bagustris.github.io/kisah-nabi/musa"
     click Harun href "https://bagustris.github.io/kisah-nabi/harun"
-    click Dzulkifli href "https://bagustris.github.io/kisah-nabi/dzulkifli"
+    click Zulkifli href "https://bagustris.github.io/kisah-nabi/zulkifli"
     click Daud href "https://bagustris.github.io/kisah-nabi/daud"
     click Sulaiman href "https://bagustris.github.io/kisah-nabi/sulaiman"
     click Ilyas href "https://bagustris.github.io/kisah-nabi/ilyas"

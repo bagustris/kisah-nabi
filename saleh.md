@@ -1,3 +1,6 @@
+# Nabi Saleh alaihissalam
+
+
 Kisah Nabi Saleh alaihissalam bermula di kalangan kaum Samud, yang dikenal dengan kehidupan yang makmur dan sejahtera. Mereka ahli dalam pertanian, peternakan, dan memahat batu. Dengan keahlian memahat yang luar biasa, mereka mampu membuat rumah indah dari batu dan bahkan membentuk gunung menjadi gedung-gedung megah. Semua kenikmatan yang mereka nikmati membuat mereka semakin sombong dan lupa akan Allah. Mereka mulai menyembah patung-patung berhala yang mereka buat dengan tangan mereka sendiri, menganggap harta dan kemakmuran sebagai segalanya.
 
 Suatu hari, Allah mengutus Nabi Saleh untuk memperingatkan mereka agar meninggalkan penyembahan terhadap berhala dan kembali menyembah Allah yang Maha Esa. Namun, kaum Samud menolak dakwah Nabi Saleh dan mempertahankan kebiasaan mereka. Mereka meremehkan Nabi Saleh, bahkan mempertanyakan bukti yang bisa menunjukkan bahwa ia benar-benar utusan Allah.

@@ -1,5 +1,6 @@
 
-**Kisah Nabi Luth alaihissalam - Hukuman Pedih untuk Kaum Sodom**
+# Kisah Nabi Luth alaihissalam  
+**Hukuman Pedih untuk Kaum Sodom**
 
 Nabi Luth adalah seorang nabi yang diutus oleh Allah untuk berdakwah kepada kaum Sodom. Dalam perjalanan dakwahnya, Nabi Luth hanya ditemani oleh dua pengikut setianya, yaitu Nabi Ibrahim dan Sarah. Mereka berjalan menuju Mesir untuk mencari nafkah dan merawat domba-domba mereka. Nabi Ibrahim dan Nabi Luth mengelola peternakan domba mereka dengan penuh kesabaran.
 

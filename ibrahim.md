@@ -1,3 +1,5 @@
+# Nabi Ibrahim alaihissalam  
+
 Nabi Ibrahim dikenal sebagai Bapak para nabi. Ketika iblis diusir dari surga, ia berjanji akan menggoda dan menyesatkan seluruh umat manusia. Iblis pun berhasil memenuhi janjinya, membuat umat manusia terbagi menjadi tiga golongan: menyembah patung-patung berhala, menyembah benda langit, dan menyembah Raja Namrud dari Babilonia.
 
 Pada suatu malam, Raja Namrud bermimpi melihat kelahiran seorang bayi laki-laki yang kelak akan menghancurkan kerajaannya. Merasa terancam, Raja Namrud memerintahkan untuk membunuh semua bayi laki-laki yang lahir di Babilonia. Dalam ketakutan, sepasang suami istri bersembunyi di hutan, karena sang suami, Azar, adalah seorang pembuat patung terkenal. Mereka khawatir jika anak mereka laki-laki, Raja Namrud pasti akan membunuhnya.

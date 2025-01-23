@@ -1,3 +1,5 @@
+# Nabi Hud alaihissalam  
+
 Kisah Nabi Hud alaihissalam bermula di kalangan kaum 'Ad, yang merupakan keturunan dari orang-orang yang selamat setelah banjir besar pada masa Nabi Nuh. Kaum 'Ad menetap di sebuah daerah yang subur dan indah yang dikenal dengan nama Hadramaut. Mereka hidup makmur dengan mengandalkan pertanian dan peternakan, serta memiliki pengetahuan dan keterampilan dalam bertani yang menghasilkan panen yang melimpah. Selain itu, mereka juga dikenal dengan tubuh yang tinggi dan besar, sehingga mampu bekerja lebih baik dari kaum lainnya.
 
 Namun, kemakmuran dan kelebihan yang dimiliki kaum 'Ad membuat mereka terlena. Mereka mulai melupakan Allah dan terlena dengan kenikmatan dunia. Iblis memanfaatkan situasi ini dengan terus berbisik kepada mereka, mendorong mereka untuk berpesta pora. Suatu hari, iblis berhasil membujuk mereka untuk membuat patung-patung indah, dan kaum 'Ad pun mulai memahat patung-patung tersebut dengan keahlian yang mereka miliki.

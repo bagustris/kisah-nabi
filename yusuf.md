@@ -1,3 +1,5 @@
+# Nabi Yusuf
+
 Nabi Yusuf Alaihissalam adalah salah satu nabi yang memiliki kisah penuh hikmah. Saat masih berusia 12 tahun, Nabi Yusuf bermimpi melihat 11 bintang, matahari, dan bulan bersujud kepadanya. Ketika menceritakan mimpi itu kepada ayahnya, Nabi Yakub Alaihissalam, beliau langsung memahami bahwa mimpi tersebut adalah pertanda kenabian Yusuf kelak. Namun, Nabi Yakub meminta Yusuf agar tidak menceritakan mimpinya kepada saudara-saudaranya, karena beliau khawatir hal itu akan menimbulkan kecemburuan.
 
 Kekhawatiran Nabi Yakub terbukti benar. Saudara-saudara Nabi Yusuf merasa iri karena ayah mereka lebih menyayangi Yusuf. Mereka pun merencanakan untuk mencelakainya. Setelah berdiskusi, mereka memutuskan untuk membuang Nabi Yusuf ke dalam sumur. Dengan alasan ingin bermain bersama, mereka meminta izin ayah mereka untuk membawa Yusuf. Awalnya Nabi Yakub ragu, namun akhirnya memberikan izin dengan berat hati.

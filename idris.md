@@ -1,4 +1,4 @@
-
+# Nabi Idris
 
 Nabi Idris alaihissalam dikenal sebagai salah satu nabi yang sangat mulia. Pada masa hidupnya, setelah Nabi Adam wafat, umat manusia mulai tersebar di berbagai penjuru dunia dan berbicara dalam 72 bahasa. Kondisi ini menciptakan tantangan baru, termasuk kekeringan yang melanda sebagian besar wilayah.
 

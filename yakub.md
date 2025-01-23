@@ -1,4 +1,4 @@
-Kisah Nabi Yakub a.s.  
+# Nabi Yakub a.s.  
 
 Mari kita simak kisah Nabi Yakub a.s., seorang nabi yang diberkahi Allah dengan kebijaksanaan dan kesabaran. Nabi Yakub memiliki hubungan yang sangat dekat dengan ayahnya, Nabi Ishak, karena sifatnya yang taat dan penuh perhatian. Namun, hubungan ini sempat menimbulkan rasa iri dari saudara-saudaranya.
 

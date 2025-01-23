@@ -1,3 +1,5 @@
+# Nabi Ayyub 
+
 Nabi Ayub adalah seorang manusia yang diberkahi rahmat luar biasa dari Allah. Ia adalah keturunan Nabi Ibrahim dan tinggal di wilayah Arab dengan kehidupan yang sangat berkecukupan. Sejak kecil, Nabi Ayub sudah terbiasa bekerja keras, dan saat dewasa, ia menjadi seorang pengusaha sukses dengan ribuan ternak, tanah yang luas, serta banyak bangunan. Kehidupannya penuh berkah, dan ia dikenal sebagai sosok yang rupawan, bijaksana, dan sabar. 
 
 Nabi Ayub menikah dengan Siti Rahmah, wanita cantik dan saleh, dan mereka dikaruniai 12 anak yang juga saleh. Meski hidup dalam kemewahan, Nabi Ayub tetap sederhana dan dermawan. Ia selalu membantu orang yang membutuhkan, hingga banyak orang memujanya. Karena kesalehan dan ketaatannya, Allah mengangkat Nabi Ayub menjadi nabi untuk menyebarkan ajaran tauhid.

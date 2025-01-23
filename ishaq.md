@@ -1,6 +1,5 @@
-
-
-**Kisah Nabi Ishak alaihissalam - Anak Nabi Ibrahim yang Bijaksana**
+# Nabi Ishak  
+**Anak Nabi Ibrahim yang Bijaksana**
 
 Nabi Ibrahim dikenal sebagai seorang yang sangat bijaksana dan ramah kepada tamu. Setiap tamu yang datang ke rumah beliau akan disambut dengan baik dan dijamu dengan hidangan istimewa. Suatu ketika, Nabi Ibrahim meminta Sarah untuk menyembelih seekor anak sapi dan menghidangkannya kepada tamu-tamu yang datang. Namun, para tamu tersebut tidak menyentuh hidangan yang disajikan, yang membuat Nabi Ibrahim khawatir. Ia bertanya-tanya apakah para tamu tersebut tidak puas dengan makanan yang diberikan.
 

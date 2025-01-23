@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Geneologi Para Nabi
+# Genealogi 25 Nabi
 
 Klik Nama Nabi untuk mengetahui kisahnya.
 
@@ -63,6 +63,6 @@ graph TD
 
 Keterangan:  
 - Jalur keturunan diambil dari pihak ayah.
-- Cara membaca: dari atas ke bawah, dari kiri ke kanan.
-- Nabi yang memiliki anak diberi panah lurus.
+- Cara membaca berdasarkan urutan waktu: dari atas ke bawah, dari kiri ke kanan.
+- Panah menunjukkan keturunan langsung (bapak - anak).
 - Panah putus-putus menunjukkan keturunan tidak langsung (cucu, cicit, dst).

@@ -1,4 +1,4 @@
-**Kisah Nabi Ilyasa Alaihissalam  
+# Nabi Ilyasa Alaihissalam   
 **Penerus Perjuangan Nabi Ilyas**  
 
 Nabi Ilyasa Alaihissalam adalah penerus perjuangan Nabi Ilyas Alaihissalam. Beliau lahir di Yordania, di sebuah keluarga sederhana. Ayahnya, Aktub bin Ajuz, merupakan keturunan dari Nabi Yusuf Alaihissalam. Keluarga mereka mencari nafkah sebagai petani dan penggembala. Namun, Nabi Ilyasa kecil, yang bernama Ilyasa saat itu, menderita sakit parah sejak kecil, sehingga ia hanya bisa terbaring sepanjang waktu.  
@@ -20,9 +20,6 @@ Karena penolakan dari kaumnya semakin keras, Nabi Ilyasa memutuskan untuk hijrah
 
 Nabi Ilyasa terus berdakwah hingga usia 90 tahun. Dalam riwayat, kaum Nabi Ilyasa yang beriman hidup rukun, tenteram, dan makmur karena selalu berbakti dan bertakwa kepada Allah Subhanahu wa Ta'ala.  
 
----
-
 **Pesan Inspiratif dari Kisah Nabi Ilyasa**  
 Kisah Nabi Ilyasa mengajarkan tentang kesabaran, keteguhan iman, dan pentingnya memohon pertolongan kepada Allah dalam menghadapi ujian hidup. Mukjizat-mukjizat yang diberikan Allah kepada Nabi Ilyasa menunjukkan bahwa rahmat Allah tidak terbatas bagi hamba-hamba-Nya yang beriman dan bertakwa.  
 
-Yuk, pelajari lebih banyak kisah para nabi dan rasul melalui aplikasi buku cerita interaktif yang seru! Aplikasi ini dilengkapi dengan animasi, narasi, dan hikmah dari setiap kisah. Temukan kisah inspiratif dari Nabi Adam hingga Nabi Muhammad serta tokoh-tokoh hebat lainnya dalam Islam. Unduh sekarang di Google Play Store atau App Store!  

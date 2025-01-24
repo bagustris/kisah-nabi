@@ -18,7 +18,6 @@ Allah menurunkan hukuman berupa gempa bumi dahsyat yang menghancurkan seluruh ko
 
 Di akhir hayatnya, Nabi Ilyas tidak meninggal dunia. Allah mengangkat beliau ke sisi-Nya, seperti halnya Nabi Idris Alaihissalam. Kisah Nabi Ilyas mengajarkan tentang keteguhan iman, kesabaran, dan kepercayaan kepada Allah dalam menghadapi berbagai ujian hidup. 
 
----
 
 **Pesan Inspiratif dari Kisah Nabi Ilyas**  
-Kisah Nabi Ilyas mengajarkan kita untuk selalu percaya kepada Allah meskipun menghadapi tantangan besar. Perjuangan beliau menyadarkan kita bahwa kebaikan dan keimanan selalu membawa keberkahan. Jangan lupa, kamu bisa membaca kisah 25 Nabi dan rasul lainnya di aplikasi buku cerita interaktif yang dilengkapi dengan animasi, narasi, serta pelajaran berharga. Yuk, belajar sambil bermain dengan mendownload aplikasinya di Google Play Store atau App Store!
+Kisah Nabi Ilyas mengajarkan kita untuk selalu percaya kepada Allah meskipun menghadapi tantangan besar. Perjuangan beliau menyadarkan kita bahwa kebaikan dan keimanan selalu membawa keberkahan.

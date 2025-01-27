@@ -14,3 +14,5 @@ p[dir='rtl'] {
   color: "#77216F";
   line-height: 1.6;
 }
+
+.mermaid svg { height: auto; }

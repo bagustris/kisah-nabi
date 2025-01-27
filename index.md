@@ -2,6 +2,22 @@
 layout: default
 ---
 
+<style>
+.mermaid {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+  display: block;
+}
+
+@media screen and (max-width: 768px) {
+  .mermaid {
+    margin: 10px 0;
+    font-size: 14px;
+  }
+}
+</style>
+
 # Genealogi 25 Nabi
 
 Klik Nama Nabi untuk mengetahui kisahnya.

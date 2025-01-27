@@ -15,4 +15,18 @@ p[dir='rtl'] {
   line-height: 1.6;
 }
 
+.mermaid {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+  display: block;
+}
+
+@media screen and (max-width: 768px) {
+  .mermaid {
+    margin: 10px 0;
+    font-size: 14px;
+  }
+}
+
 .mermaid svg { height: auto; }

@@ -1,3 +1,5 @@
+<div markdown="1">
+# Nabi Nuh a.s. 
 Kisah Nabi Nuh alaihissalam dimulai pada masa ketika sebagian besar umat manusia sudah mulai menyimpang dari ajaran Nabi Adam. Meskipun ada beberapa orang yang masih memegang teguh ajaran yang benar, kebanyakan mulai berpaling. Lima orang yang terkenal saleh dan menjadi panutan mulai meninggal dunia, dan dengan kehilangan mereka, kaum tersebut merasakan kesedihan yang mendalam.
 
 Pada saat itulah, iblis memanfaatkan kesempatan untuk menggoda mereka. Iblis menyarankan agar mereka membuat patung untuk mengenang orang-orang saleh tersebut. Seiring berjalannya waktu, patung-patung itu tidak hanya dipandang sebagai kenangan, namun mulai disembah sebagai Tuhan. Mereka yang awalnya setia pada ajaran Nabi Adam mulai tersesat.
@@ -14,6 +16,14 @@ Nabi Nuh dan para pengikutnya yang selamat berada di dalam bahtera yang terus te
 
 Peristiwa banjir besar ini terjadi pada hari ke-10 Muharam, yang kemudian dikenal sebagai hari Asyura. Nabi Nuh berdakwah selama 950 tahun, memperjuangkan ajaran yang benar meskipun menghadapi berbagai tantangan.
 
+Dalam Al-Quran disebutkan bahwa, 
+<p dir="rtl" align="right">
+وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا فَأَخَذَهُمُ الطُّوفَانُ وَهُمْ ظَالِمُونَ
+</p>
+
+"Dan sungguh, Kami telah mengutus Nuh kepada kaumnya, maka dia tinggal di antara mereka seribu tahun kurang lima puluh tahun. Kemudian mereka dilanda banjir besar, sedangkan mereka adalah orang-orang yang zalim." (QS. Al-Ankabut: 14)
+
 Setelah peristiwa besar itu, Nabi Nuh melepaskan burung-burung dan hewan-hewan yang ada di bahtera, dan mereka menyebar ke seluruh penjuru bumi, begitu juga dengan kaum Nabi Nuh yang mulai membangun kembali peradaban.
 
 Dengan begitu, kita bisa melihat betapa besar perjuangan Nabi Nuh dalam menyelamatkan umatnya dari kesesatan, meskipun banyak yang menentangnya. Kisah ini mengajarkan kita tentang kesabaran, keteguhan iman, dan pentingnya mengikuti petunjuk Allah.
+</div>

@@ -8,10 +8,8 @@ Allah pun mengutus para malaikat-Nya untuk menghentikan kekacauan itu. Pasukan m
 Dia Allah berfirman dalam surat Al-baqarah (2:30): 
 
 <p lang='ar' dir='rtl' align=right>
-<font size=6 color="#77216F"> 
 
 وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً ۖ قَالُوا أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ ۖ قَالَ إِنِّي أَعْلَمُ مَا لَا تَعْلَمُونَ 
-</font>
 </p>
 
 "Ingatlah ketika Tuhanmu berfirman kepada para malaikat, 'Sesungguhnya Aku hendak menjadikan seorang khalifah di bumi.' Mereka berkata, 'Mengapa Engkau hendak menjadikan (khalifah) di bumi itu orang yang akan membuat kerusakan padanya dan menumpahkan darah, padahal kami senantiasa bertasbih dengan memuji-Mu dan menyucikan nama-Mu?' Tuhan berfirman, 'Sesungguhnya Aku mengetahui apa yang tidak kamu ketahui.'"
@@ -20,13 +18,11 @@ Allah menciptakan manusia pertama dengan tangan-Nya sendiri. Manusia diciptakan 
 
 Dalam surat Al-hijr (25:38-29) Allah berfirman:  
 
-<font size=6 color="#77216F"> 
 <p lang='ar' dir='rtl' align=right size>
 
 وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن صَلْصَالٍ مِّنْ حَمَإٍ مَّسْنُونٍ ‎﴿٢٨﴾‏ فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ ‎﴿٢٩﴾‏
 
-</p></font>
-
+</p>
 
 "Dan (ingatlah) ketika Tuhanmu berfirman kepada malaikat, 'Sesungguhnya Aku akan menciptakan manusia dari tanah liat kering (yang berasal) dari lumpur hitam yang diberi bentuk. Maka apabila Aku telah menyempurnakan kejadiannya dan telah meniupkan ke dalamnya ruh (ciptaan)-Ku, maka tunduklah kamu kepadanya dengan bersujud.'"
 
@@ -47,12 +43,12 @@ Iblis berkata, "Maukah aku tunjukkan kepadamu pohon khuldi, pohon keabadian, dan
 
 Disebutkan dalam surat Al-baqarah (2:35-37):
 
-<p lang='ar' dir='rtl' align=right><font size=6 color="#77216F"> 
+<p lang='ar' dir='rtl' align=right>
 
 
 وَقُلْنَا يَا آدَمُ اسْكُنْ أَنتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ ‎﴿٣٥﴾‏ فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ ۖ وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَىٰ حِينٍ ‎﴿٣٦﴾‏ فَتَلَقَّىٰ آدَمُ مِن رَّبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ ۚ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ ‎﴿٣٧﴾‏
 
-</font></p>
+</p>
 
 
 "Dan Kami berfirman, 'Wahai Adam! Tinggallah engkau dan istrimu di surga dan makanlah dengan nikmat (aneka makanan) yang ada di sana sesuka kalian, tetapi janganlah kamu berdua mendekati pohon ini, sehingga kamu termasuk orang-orang yang zalim.' (35)Lalu setan memperdayakan keduanya dari surga itu dan menyebabkan keduanya dikeluarkan dari (kenikmatan) yang ada di sana, dan Kami berfirman, 'Turunlah kamu! Sebagian kamu menjadi musuh bagi yang lain. Dan kamu mempunyai tempat tinggal dan kesenangan di bumi sampai waktu yang ditentukan.' (36). Kemudian Adam menerima beberapa kalimat dari Tuhannya dan Allah menerima tobatnya. Sesungguhnya Dia Maha Penerima Tobat dan Maha Penyayang (37)"
@@ -65,9 +61,8 @@ Nabi Adam diturunkan di sebuah puncak gunung yang terletak di India, sedangkan H
 
 Dalam surat Thaha (20:123) disebutkan:   
 
-<p lang='ar' dir='rtl' align=right><font size=6 color="#77216F"> 
+<p lang='ar' dir='rtl' align=right>
  قَالَ اهْبِطَا مِنْهَا جَمِيعًا ۖ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّي هُدًى فَمَنِ اتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ
-</font>
 </p>
 
 "Allah berfirman, 'Turunlah kamu berdua dari surga bersama-sama! Sebagian kamu menjadi musuh bagi sebagian yang lain. Kemudian jika benar-benar datang petunjuk kepada kamu dari-Ku, maka barang siapa mengikuti petunjuk-Ku, ia tidak akan sesat dan tidak akan celaka.'"

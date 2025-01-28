@@ -81,5 +81,5 @@ Dalam surat Al-Baqarah (2:31) disebutkan:
     وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى الْمَلَائِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَاءِ هَٰؤُلَاءِ إِنْ كُنْتُمْ صَادِقِينَ
 </p>
 
-    "Dan Dia mengajarkan kepada Adam nama-nama (benda) semuanya, kemudian mengemukakannya kepada para malaikat, seraya berfirman, 'Sebutkanlah kepada-Ku nama-nama (benda) ini jika kamu memang benar!'" (QS. Al-Baqarah: 31)
+"Dan Dia mengajarkan kepada Adam nama-nama (benda) semuanya, kemudian mengemukakannya kepada para malaikat, seraya berfirman, 'Sebutkanlah kepada-Ku nama-nama (benda) ini jika kamu memang benar!'" (QS. Al-Baqarah: 31)
 </div>

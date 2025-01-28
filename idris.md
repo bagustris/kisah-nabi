@@ -14,5 +14,18 @@ Rasa ingin tahu Nabi Idris pun semakin besar. Ia meminta kepada malaikat Izrail 
 
 Setelah melihat keduanya, Nabi Idris sangat enggan meninggalkan surga. Namun, Allah mengizinkan Nabi Idris untuk tinggal di langit. Dalam sebuah pertemuan dengan Nabi Muhammad SAW di langit, Nabi Muhammad bertanya kepada malaikat Jibril tentang Nabi Idris, dan malaikat Jibril menjawab bahwa Nabi Idris memiliki banyak amal yang luar biasa.
 
+Nabi Idris disebutkan dua kali dalam Al-Qur'an, yakni dalam surat Maryam (19:56-57) dan Al-Anbiya (21:85-86). Dalam surat Maryam, Allah berfirman:
+
+<p lang='ar' dir='rtl' align=right>
+    وَاذْكُرْ فِي الْكِتَابِ إِدْرِيسَ ۚ إِنَّهُ كَانَ صِدِّيقًا نَبِيًّا . وَرَفَعْنَاهُ مَكَانًا عَلِيًّا
+</p>
+    "Dan ceritakanlah (Muhammad) kisah Idris di dalam Kitab (Al-Quran). Sesungguhnya dia seorang yang sangat mencintai kebenaran dan seorang nabi. Dan Kami telah mengangkatnya ke martabat yang tinggi." (QS. Maryam: 56-57)
+
+Dalam surat Al-Anbiya, Allah berfirman:
+<p lang='ar' dir='rtl' align=right>  
+    وَإِسْمَاعِيلَ وَإِدْرِيسَ وَذَا الْكِفْلِ ۖ كُلٌّ مِنَ الصَّابِرِينَ . وَأَدْخَلْنَاهُمْ فِي رَحْمَتِنَا ۖ إِنَّهُمْ مِنَ الصَّالِحِينَ
+</p>
+    "Dan (ingatlah) Ismail, Idris, dan Dzulkifli. Mereka semua termasuk orang-orang yang sabar. Kami telah memasukkan mereka ke dalam rahmat Kami. Sesungguhnya mereka termasuk orang-orang yang saleh." (QS. Al-Anbiya': 85-86)
+    
 
 Dengan demikian, kisah Nabi Idris mengajarkan kita tentang ketekunan dalam beribadah, kecerdasan dalam ilmu, serta kerendahan hati dalam memberikan bantuan kepada orang lain tanpa pamrih.

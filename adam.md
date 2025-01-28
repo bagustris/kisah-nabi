@@ -5,7 +5,7 @@ Nabi Adam alaihissalam adalah manusia pertama di bumi. Malaikat dan iblis adalah
 
 Allah pun mengutus para malaikat-Nya untuk menghentikan kekacauan itu. Pasukan malaikat bertarung dengan para iblis. Akibatnya, bumi pun mengalami kerusakan. Maka, ketika Allah berfirman ingin menciptakan khalifah, pemimpin di bumi, para malaikat pun bertanya, "Untuk apa menciptakan makhluk yang akan merusak bumi?" Namun, Allah lebih tahu dan Maha Tahu atas segalanya.
 
-Al-baqarah (2:30): 
+Dia Allah berfirman dalam surat Al-baqarah (2:30): 
 
 <p lang='ar' dir='rtl' align=right>
 <font size=6 color="#77216F"> 
@@ -18,7 +18,7 @@ Al-baqarah (2:30):
 
 Allah menciptakan manusia pertama dengan tangan-Nya sendiri. Manusia diciptakan dari segumpal tanah liat. Allah membentuknya dengan sangat sempurna. Setelah tubuh itu selesai dibuat, Allah meniupkan ruh ke dalamnya. Maka manusia pertama pun lahir, dialah Nabi Adam alaihissalam.
 
-Al-hijr (25:38-29):  
+Dalam surat Al-hijr (25:38-29) Allah berfirman:  
 
 <font size=6 color="#77216F"> 
 <p lang='ar' dir='rtl' align=right size>
@@ -29,7 +29,6 @@ Al-hijr (25:38-29):
 
 
 "Dan (ingatlah) ketika Tuhanmu berfirman kepada malaikat, 'Sesungguhnya Aku akan menciptakan manusia dari tanah liat kering (yang berasal) dari lumpur hitam yang diberi bentuk. Maka apabila Aku telah menyempurnakan kejadiannya dan telah meniupkan ke dalamnya ruh (ciptaan)-Ku, maka tunduklah kamu kepadanya dengan bersujud.'"
-
 
 
 Nabi Adam diciptakan dengan segala kemuliaan dan diberi kedudukan yang mulia pula. Allah memberikan perintah kepada para malaikat dan golongan jin untuk bersujud kepada Nabi Adam. Sesuai dengan sifatnya, iblis menolak perintah tersebut. Iblis yang menolak perintah Allah pun mendapat hukuman. Sejak saat itu, iblis diusir dari surga dan dilaknat oleh Allah hingga hari kiamat tiba. Iblis merasa kecewa sekaligus marah.
@@ -46,7 +45,7 @@ Namun, kebahagiaan Nabi Adam dan Hawa ini semakin membuat iblis marah. Iblis ber
 
 Iblis berkata, "Maukah aku tunjukkan kepadamu pohon khuldi, pohon keabadian, dan kerajaan yang tidak akan binasa?" Iblis mengeluarkan segala macam cara untuk membuat Nabi Adam tergoda. Tapi Nabi Adam tetap teguh. Iblis kemudian berpikir, "Jika tidak bisa menggoyahkan Adam, maka goyahkanlah Hawa." Maka iblis pun menghasut Hawa, membujuknya untuk merayu Nabi Adam. Sedikit demi sedikit, Hawa mulai percaya pada perkataan iblis. Dia pun membujuk Nabi Adam untuk memetik buah khuldi tersebut. Untuk satu kali itu saja, iman Nabi Adam goyah, dan dia setuju untuk memetik buah khuldi tersebut.
 
-Al-baqarah (2:35-37):
+Disebutkan dalam surat Al-baqarah (2:35-37):
 
 <p lang='ar' dir='rtl' align=right><font size=6 color="#77216F"> 
 
@@ -54,7 +53,6 @@ Al-baqarah (2:35-37):
 وَقُلْنَا يَا آدَمُ اسْكُنْ أَنتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ ‎﴿٣٥﴾‏ فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ ۖ وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَىٰ حِينٍ ‎﴿٣٦﴾‏ فَتَلَقَّىٰ آدَمُ مِن رَّبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ ۚ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ ‎﴿٣٧﴾‏
 
 </font></p>
-
 
 
 "Dan Kami berfirman, 'Wahai Adam! Tinggallah engkau dan istrimu di surga dan makanlah dengan nikmat (aneka makanan) yang ada di sana sesuka kalian, tetapi janganlah kamu berdua mendekati pohon ini, sehingga kamu termasuk orang-orang yang zalim.' (35)Lalu setan memperdayakan keduanya dari surga itu dan menyebabkan keduanya dikeluarkan dari (kenikmatan) yang ada di sana, dan Kami berfirman, 'Turunlah kamu! Sebagian kamu menjadi musuh bagi yang lain. Dan kamu mempunyai tempat tinggal dan kesenangan di bumi sampai waktu yang ditentukan.' (36). Kemudian Adam menerima beberapa kalimat dari Tuhannya dan Allah menerima tobatnya. Sesungguhnya Dia Maha Penerima Tobat dan Maha Penyayang (37)"
@@ -65,7 +63,7 @@ Allah berfirman, "Apakah kamu lari dari-Ku, wahai Adam?" Nabi Adam menjawab, "Wa
 
 Nabi Adam diturunkan di sebuah puncak gunung yang terletak di India, sedangkan Hawa diturunkan di Jeddah, Arab Saudi. Tempat yang terpisah sangat jauh. Selama ratusan tahun, mereka berdua saling mencari satu sama lain. Akhirnya, setelah 200 tahun, mereka bertemu di sebuah bukit bernama Jabal Rahmah.
 
-Thaha (20:123):   
+Dalam surat Thaha (20:123) disebutkan:   
 
 <p lang='ar' dir='rtl' align=right><font size=6 color="#77216F"> 
  قَالَ اهْبِطَا مِنْهَا جَمِيعًا ۖ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّي هُدًى فَمَنِ اتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ
@@ -78,4 +76,10 @@ Sejak saat itu, Nabi Adam dan Hawa membangun kehidupan di bumi. Nabi Adam menana
 
 Mukjizat ataupun keistimewaan yang diberikan kepada Nabi Adam AS yaitu diciptakan langsung melalui Tangan-Nya, ditiupkan langsung roh ciptaan-Nya, memerintahkan para malaikat untuk bersujud kepadanya, lalu diajarkan langsung oleh Allah SWT nama-nama segala sesuatu.
 
+Dalam surat Al-Baqarah (2:31) disebutkan:
+<p lang='ar' dir='rtl' align=right>
+    وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى الْمَلَائِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَاءِ هَٰؤُلَاءِ إِنْ كُنْتُمْ صَادِقِينَ
+</p>
+
+    "Dan Dia mengajarkan kepada Adam nama-nama (benda) semuanya, kemudian mengemukakannya kepada para malaikat, seraya berfirman, 'Sebutkanlah kepada-Ku nama-nama (benda) ini jika kamu memang benar!'" (QS. Al-Baqarah: 31)
 </div>

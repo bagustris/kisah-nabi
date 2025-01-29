@@ -1,4 +1,4 @@
-
+<div markdown="1">
 # Kisah Nabi Luth alaihissalam  
 **Hukuman Pedih untuk Kaum Sodom**
 
@@ -12,9 +12,23 @@ Suatu hari, ketika sedang merampok, kaum Sodom menemukan seorang pemuda tampan y
 
 Kaum Sodom terus melakukan perbuatan keji ini, dan Nabi Luth pun mulai menghadapi perlawanan dari kaumnya. Mereka bahkan mulai melukai Nabi Luth dan menyebarkan fitnah tentang dirinya. Bahkan istrinya pun setia kepada kaum Sodom dan selalu mengawasi segala tindakan Nabi Luth, lalu melaporkannya kepada kaum Sodom.
 
-Suatu hari, tiga orang pemuda tampan datang ke kota Sodom dan bertemu dengan putri Nabi Luth yang sedang mengambil air. Mereka meminta izin untuk menumpang istirahat di rumah Nabi Luth. Meskipun gadis itu ragu, akhirnya ia membawa ketiga pemuda itu pulang. Nabi Luth merasa bimbang, takut jika kaumnya mengetahui hal ini, mereka akan menyerang dan membahayakan tamu-tamunya.
+Suatu hari, tiga orang pemuda tampan (malaikat) datang ke kota Sodom dan bertemu dengan putri Nabi Luth yang sedang mengambil air. Mereka meminta izin untuk menumpang istirahat di rumah Nabi Luth. Meskipun gadis itu ragu, akhirnya ia membawa ketiga pemuda itu pulang. Nabi Luth merasa bimbang, takut jika kaumnya mengetahui hal ini, mereka akan menyerang dan membahayakan tamu-tamunya.
+
+Hud Ayat 77:
+<p lang='ar' dir='rtl' align=right>
+وَلَمَّا جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ هَٰذَا يَوْمٌ عَصِيبٌ
+</p>
+Dan ketika utusan-utusan Kami (malaikat) datang kepada Luth, dia merasa susah karena kedatangan mereka, dan merasa tidak mampu melindungi mereka. Dia berkata, "Ini adalah hari yang sulit."
 
 Namun, Nabi Luth memutuskan untuk menerima tamu-tamunya, meskipun ia khawatir akan keselamatan mereka. Istri Nabi Luth yang melihat ketiga tamu itu segera keluar untuk memberitahu kaumnya. Kaum Sodom berbondong-bondong pergi ke rumah Nabi Luth, meminta agar pemuda tampan itu diserahkan kepada mereka.
+
+Hud Ayat 78:
+<p lang='ar' dir='rtl' align=right>
+Ayat 78:
+وَجَاءَهُ قَوْمُهُ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا يَعْمَلُونَ السَّيِّئَاتِ ۚ قَالَ يَا قَوْمِ هَٰؤُلَاءِ بَنَاتِي هُنَّ أَطْهَرُ لَكُمْ ۖ فَاتَّقُوا اللَّهَ وَلَا تُخْزُونِ فِي ضَيْفِي ۖ أَلَيْسَ مِنكُمْ رَجُلٌ رَّشِيدٌ
+</p>
+Artinya:
+Dan datanglah kaumnya dengan bergegas kepadanya. Dan sebelum itu, mereka telah melakukan perbuatan-perbuatan buruk. Luth berkata, "Hai kaumku, inilah putri-putri (negeri) ku, mereka lebih suci bagimu. Maka bertakwalah kepada Allah dan janganlah kamu membuat aku malu terhadap tamuku. Tidak adakah di antara kamu seorang yang berakal?"
 
 Nabi Luth merasa tidak berdaya dan meminta maaf kepada tamunya karena tidak dapat melindungi mereka. Ia menceritakan semua dosa yang dilakukan oleh kaumnya dan berdoa kepada Allah agar melindungi mereka. Ketika pintu rumah Nabi Luth dibuka, hukuman dari Allah pun datang. Setiap kali kaum Sodom melihat ke arah rumah Nabi Luth, mata mereka tiba-tiba menjadi buta.
 
@@ -22,5 +36,11 @@ Malaikat pun memerintahkan Nabi Luth untuk segera meninggalkan kota Sodom bersam
 
 Semua rombongan Nabi Luth mematuhi perintah tersebut, kecuali istrinya. Meskipun mengikuti suaminya, hatinya tetap bersama kaum Sodom. Istrinya melanggar perintah Nabi Luth dan menoleh ke belakang pada saat yang telah dijanjikan. Pada saat itu, kota Sodom ditimpa bencana besar: tanah terbalik, batu-batu panas bermunculan, angin kencang berhembus, dan hujan batu panas menghancurkan segala sesuatu. Istri Nabi Luth yang menoleh ke belakang pun menjadi bagian dari kaum Sodom yang binasa.
 
+Hud Ayat 82:
+<p lang='ar' dir='rtl' align=right>
+فَلَمَّا جَاءَ أَمْرُنَا جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ مَّنضُودٍ
+</p>
+Artinya:
+Maka ketika datang azab Kami, Kami menjungkirbalikkan negeri itu, dan Kami hujani mereka dengan batu dari tanah yang keras yang berlapis-lapis.
 
 Kisah ini mengajarkan kita pentingnya mengikuti perintah Allah, menjauhi perbuatan dosa, dan selalu melindungi dan menjaga tamu dengan baik, sebagaimana yang dilakukan oleh Nabi Luth dalam menghadapi kaum yang sesat.

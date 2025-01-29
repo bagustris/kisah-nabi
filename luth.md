@@ -2,7 +2,7 @@
 # Kisah Nabi Luth alaihissalam  
 **Hukuman Pedih untuk Kaum Sodom**
 
-Nabi Luth adalah seorang nabi yang diutus oleh Allah untuk berdakwah kepada kaum Sodom. Dalam perjalanan dakwahnya, Nabi Luth hanya ditemani oleh dua pengikut setianya, yaitu Nabi Ibrahim dan Sarah. Mereka berjalan menuju Mesir untuk mencari nafkah dan merawat domba-domba mereka. Nabi Ibrahim dan Nabi Luth mengelola peternakan domba mereka dengan penuh kesabaran.
+Nabi Luth adalah seorang nabi yang diutus oleh Allah untuk berdakwah kepada kaum Sodom (Daerah sodom diyakini sekarang adalah wilayah Tel el-Hammam di Yordania[1]). Dalam perjalanan dakwahnya, Nabi Luth hanya ditemani oleh dua pengikut setianya, yaitu Nabi Ibrahim dan Sarah. Mereka berjalan menuju Mesir untuk mencari nafkah dan merawat domba-domba mereka. Nabi Ibrahim dan Nabi Luth mengelola peternakan domba mereka dengan penuh kesabaran.
 
 Nabi Luth memulai dakwahnya di tengah-tengah kaum Sodom, namun kaum tersebut menolak dakwahnya dengan tegas. Kaum Sodom ingin hidup dengan bebas dan melakukan apa saja yang mereka inginkan, termasuk menyembah berhala, berjudi, mabuk, mencuri, dan memfitnah. Dosa terbesar yang dilakukan oleh kaum Sodom adalah pernikahan sesama jenis, yaitu pria menikahi pria dan wanita menikahi wanita. Allah jelas melarang perbuatan tersebut, dan Nabi Luth menegur mereka dengan keras.
 
@@ -44,3 +44,6 @@ Artinya:
 Maka ketika datang azab Kami, Kami menjungkirbalikkan negeri itu, dan Kami hujani mereka dengan batu dari tanah yang keras yang berlapis-lapis.
 
 Kisah ini mengajarkan kita pentingnya mengikuti perintah Allah, menjauhi perbuatan dosa, dan selalu melindungi dan menjaga tamu dengan baik, sebagaimana yang dilakukan oleh Nabi Luth dalam menghadapi kaum yang sesat.
+
+Referensi:  
+[1] Bunch, T. E., LeCompte, M. A., Adedeji, A. V., Wittke, J. H., Burleigh, T. D., Hermes, R. E., Mooney, C., Batchelor, D., Wolbach, W. S., Kathan, J., Kletetschka, G., Patterson, M. C. L., Swindel, E. C., Witwer, T., Howard, G. A., Mitra, S., Moore, C. R., Langworthy, K., Kennett, J. P., … Silvia, P. J. (2021). A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea. In Scientific Reports (Vol. 11, Issue 1). Nature Publishing Group UK. https://doi.org/10.1038/s41598-021-97778-3

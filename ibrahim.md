@@ -40,7 +40,7 @@ Peristiwa itu membuktikan bahwa Nabi Ibrahim adalah seorang yang luar biasa, nam
 
 Akhirnya, Nabi Ibrahim melanjutkan perjalanannya dan bertemu dengan umat yang percaya kepadanya, termasuk Sarah, yang kelak akan menjadi istrinya dan ibu dari anaknya yang akan meneruskan dakwah Islam.
 
-Nabi Ibrahim memiliki dua istri, yaitu Sarah dan Hajar. Sarah adalah istri pertama Nabi Ibrahim, dan mereka memiliki seorang anak bernama Ishaq. Kemudian Nabi Ibrahim menikahi Hajar, seorang wanita shalehah yang menjadi pelayan Nabi Ibrahim dan Sarah. Dari pernikahan dengan Hajar, Nabi memiliki seorang anak bernama Ismail, yang lahir lebih dahulu daripada Ishaq. Kepada Ismail, Nabi Ibrahim diperintahkan untuk menyembelihnya sebagai ujian iman. Namun, Allah menggantikan Ismail dengan seekor domba.
+Nabi Ibrahim setidaknya memiliki dua istri, yaitu Sarah dan Hajar. Sarah adalah istri pertama Nabi Ibrahim, dan mereka memiliki seorang anak bernama Ishaq. Kemudian Nabi Ibrahim menikahi Hajar, seorang wanita shalehah yang menjadi pelayan Nabi Ibrahim dan Sarah. Dari pernikahan dengan Hajar, Nabi memiliki seorang anak bernama Ismail, yang lahir lebih dahulu daripada Ishaq. Kepada Ismail, Nabi Ibrahim diperintahkan untuk menyembelihnya sebagai ujian iman. Namun, Allah menggantikan Ismail dengan seekor domba.
 
 
 <p dir="rtl" align="right">

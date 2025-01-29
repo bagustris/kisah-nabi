@@ -1,3 +1,4 @@
+<div markdown="1">
 # Kisah Nabi Ismail alaihissalam  
 **Mukjizat Air Zamzam**
 
@@ -15,9 +16,21 @@ Air Zamzam terus mengalir tanpa henti, bahkan dalam cuaca yang sangat panas seka
 
 Nabi Ibrahim kemudian mendapat sebuah mimpi yang membuatnya gelisah. Dalam mimpi tersebut, beliau diperintahkan untuk menyembelih putranya, Ismail. Nabi Ibrahim merasa cemas, namun Ismail yang melihat kegelisahan ayahnya bertanya apa yang membuatnya gelisah. Nabi Ibrahim menceritakan mimpi tersebut kepada Ismail. Dengan tegas, Ismail menjawab bahwa ayahnya harus melaksanakan perintah Allah, dan ia siap untuk menerima takdir tersebut dengan sabar.
 
+<p dir="rtl" align="right">
+فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ ﴿102﴾ 
+</p>
+(102) Maka tatkala anak itu sampai (pada umur sanggup) berusaha bersama-sama Ibrahim, Ibrahim berkata: "Hai anakku sesungguhnya aku melihat dalam mimpi bahwa aku menyembelihmu. Maka fikirkanlah apa pendapatmu!" Ia menjawab: "Hai bapakku, kerjakanlah apa yang diperintahkan kepadamu; insya Allah kamu akan mendapatiku termasuk orang-orang yang sabar".
+
 Nabi Ibrahim pun merasa tenang dengan jawaban Ismail. Sebelum pelaksanaan perintah Allah, Ismail meminta agar tali yang mengikatnya diperketat agar tidak bergerak saat disembelih, serta pisau diasah agar prosesnya cepat dan mengurangi rasa sakit. Ia juga menitipkan baju yang dipakainya untuk sang ibu. Setelah itu, Nabi Ibrahim pun mengikat Ismail dan bersiap untuk menyembelihnya. Namun, saat pisau diangkat, Allah berfirman untuk mengganti Nabi Ismail dengan seekor domba sebagai pengganti.
+
+<p dir="rtl" align="right">
+وَفَدَيْنَاهُ بِذِبْحٍ عَظِيمٍ ‎﴿١٠٧﴾
+</p>
+(107) Dan Kami tebus anak itu dengan seekor sembelihan yang besar.
+
 
 Peristiwa ini menjadi awal mula ibadah haji bagi umat Islam, di mana umat manusia mengenang pengorbanan Nabi Ibrahim dan Nabi Ismail yang sangat ikhlas. Setelah kejadian tersebut, Nabi Ismail semakin tekun dalam beribadah, belajar dengan sungguh-sungguh, dan mengamalkan semua yang diajarkan oleh Nabi Ibrahim. Nabi Ismail kelak diangkat menjadi seorang nabi utusan Allah.
 
-
 Cerita ini mengajarkan kita tentang keteguhan iman, kesabaran dalam menghadapi ujian, dan pentingnya mengikuti perintah Allah dengan penuh keikhlasan.
+
+</div>

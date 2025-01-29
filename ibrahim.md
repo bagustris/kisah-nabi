@@ -48,7 +48,7 @@ Nabi Ibrahim memiliki dua istri, yaitu Sarah dan Hajar. Sarah adalah istri perta
 </p>
 "Maka ketika keduanya telah berserah diri dan dia (Ibrahim) membaringkan anaknya atas pelipis(nya), (untuk melaksanakan perintah Allah). Lalu Kami panggil dia, 'Wahai Ibrahim! Sungguh, engkau telah membenarkan mimpi itu.' Sesungguhnya demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik." (QS. As-Saffat: 103-105)
 
-Salah satu hal penting yang harus diteladani dari Nabi Ibrahim adalah keberhasilannya membengun keluarga. Sebagaimana difirman Allah dalam Al-Qur'an surat Ibrahim.
+Salah satu hal penting yang harus diteladani dari Nabi Ibrahim adalah keberhasilannya membengun keluarga. Sebagaimana difirmankan Allah dalam Al-Qur'an surat Ibrahim berikut.
 
 Ayat 35:  
 <p dir="rtl" align="right">

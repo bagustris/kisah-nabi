@@ -1,6 +1,6 @@
 # Genealogi 25 Nabi
 
-Klik Nama Nabi untuk mengetahui kisahnya.
+Klik Nama Nabi untuk mengetahui kisahnya (gunakan PC atau tablet agar lebih optimal).
 
 ```mermaid
 graph TD

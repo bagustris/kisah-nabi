@@ -3,7 +3,7 @@
 
 Nabi Ayub adalah sosok yang dikenal karena kesabarannya. Allah mengujinya dengan kehilangan seluruh hartanya, meninggalnya semua anaknya, serta penyakit kulit yang dideritanya selama 18 tahun. Namun, berkat kesabarannya, Allah akhirnya mengembalikan semua yang hilang, termasuk anak-anak yang saleh.  
 
-Salah satu anaknya adalah Basyar, seorang anak yang saleh, baik hati, teguh pendirian, adil, dan tidak pernah marah atau berbohong. Ia tumbuh besar di Syam, di bawah kepemimpinan seorang raja yang adil dan bijaksana. Sayangnya, sang raja tidak memiliki keturunan untuk meneruskan tahtanya.  
+Menurut buku kisah para Nabi (qashasul anbiya), salah satu anaknya adalah Basyar, seorang anak yang saleh, baik hati, teguh pendirian, adil, dan tidak pernah marah atau berbohong. Ia tumbuh besar di Syam, di bawah kepemimpinan seorang raja yang adil dan bijaksana. Sayangnya, sang raja tidak memiliki keturunan untuk meneruskan tahtanya.  
 
 Suatu hari, sang raja mengumpulkan rakyatnya dan mengajukan syarat bagi siapa saja yang ingin menjadi penerusnya: harus sanggup berpuasa setiap hari, beribadah setiap malam, serta memimpin dengan adil. Semua orang terdiam, karena syarat tersebut sangat berat. Namun, tiba-tiba terdengar suara seseorang yang menerima tantangan itu dengan penuh keyakinan. Orang itu adalah Basyar.  
 

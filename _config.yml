@@ -1,6 +1,9 @@
 exclude:
   - node_modules
   - script
+  - search-demo.html
+  - Gemfile.bak
+  - Gemfile.lock.bak
 
 sass:
   style: compressed
@@ -8,16 +11,23 @@ sass:
 remote_theme: pages-themes/primer
 
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
-github:
-  private: false
-  license:
-    name: MIT
-  source:
-    branch: "main"
-    path: "/"
-  repository_url: "https://github.com/bagustris/prophets"
-  
 title: Prophets
 description: Genealogy and description of Prophets in Islam
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+url: "https://bagustris.github.io"
+baseurl: "/kisah-nabi"
+
+github:
+  repository_name: kisah-nabi
+  repository_nwo: bagustris/kisah-nabi
+  repository_url: "https://github.com/bagustris/kisah-nabi"
+  owner_name: bagustris

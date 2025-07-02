@@ -1,3 +1,8 @@
+---
+title: "Nabi Musa AS"
+description: "Kisah Nabi Musa Alaihissalam, manusia yang berbicara dengan Allah dan memimpin Bani Israil keluar dari Mesir"
+---
+
 # Kisah Nabi Musa Alaihissalam  
 **Manusia yang Berbicara dengan Allah**  
 

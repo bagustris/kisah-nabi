@@ -1,3 +1,8 @@
+---
+title: "Nabi Muhammad SAW"
+description: "Kisah Nabi Muhammad Sallallahu Alaihi Wasallam, Rasul terakhir dengan perjalanan hidup penuh mukjizat dan keutamaan"
+---
+
 # Nabi Muhammad SAW  
 
 Kisah Nabi Muhammad Sallallahu Alaihi Wasallam penuh dengan perjalanan hidup yang penuh ujian, mukjizat, dan keutamaan. Beliau lahir pada tahun Gajah, saat pasukan Raja Abraha berusaha menghancurkan Ka'bah, namun Allah melindungi Ka'bah dengan mengirimkan pasukan burung Ababil yang menjatuhkan batu panas. Pada saat kelahiran Nabi Muhammad, berbagai peristiwa besar terjadi, seperti terpadamnya api yang disembah oleh bangsa Majusi dan guncangnya istana Raja Persia.

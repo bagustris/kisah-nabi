@@ -1,3 +1,8 @@
+---
+title: "Nabi Ibrahim AS"
+description: "Kisah Nabi Ibrahim alaihissalam, Bapak para nabi yang dikenal karena keteguhannya melawan penyembahan berhala"
+---
+
 <div markdown="1">
 
 # Nabi Ibrahim alaihissalam  

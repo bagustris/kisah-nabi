@@ -1,0 +1,26 @@
+{% comment %}
+List all content pages that have a layout defined, excluding pages with nav_exclude: true
+and non-HTML output (feed.xml, sitemap.xml, etc.).
+Sorted by optional "order" front matter, then alphabetically by title.
+Uses page.title as-is (no capitalize filter) to preserve title case like "Nabi Adam".
+{% endcomment %}
+{% assign nav_pages = site.pages | where_exp: "p", "p.layout != nil" | where_exp: "p", "p.nav_exclude != true" %}
+{% assign ordered   = nav_pages | where_exp: "p", "p.order != nil" | sort: "order" %}
+{% assign unordered = nav_pages | where_exp: "p", "p.order == nil" | sort: "title" %}
+{% assign sorted_pages = ordered | concat: unordered %}
+
+{% for nav_page in sorted_pages %}
+  {% assign ext = nav_page.url | split: "." | last %}
+  {% unless ext == "xml" or ext == "txt" or ext == "scss" or ext == "css" or ext == "json" %}
+    {% if nav_page.title %}
+      {% assign nav_label = nav_page.title %}
+    {% else %}
+      {% assign nav_label = nav_page.path | split: "/" | last | split: "." | first | replace: "-", " " | replace: "_", " " | capitalize %}
+    {% endif %}
+    {% if nav_page.url == page.url %}
+- **[{{ nav_label }}]({{ nav_page.url | relative_url }})**
+    {% else %}
+- [{{ nav_label }}]({{ nav_page.url | relative_url }})
+    {% endif %}
+  {% endunless %}
+{% endfor %}

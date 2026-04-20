@@ -1,3 +1,8 @@
+---
+title: "Nabi Idris"
+layout: default
+order: 2
+---
 <div markdown="1">
 # Nabi Idris
 

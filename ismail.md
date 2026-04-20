@@ -1,5 +1,10 @@
+---
+title: "Nabi Ismail"
+layout: default
+order: 8
+---
 <div markdown="1">
-# Kisah Nabi Ismail alaihissalam  
+# Nabi Ismail  
 **Mukjizat Air Zamzam**
 
 Nabi Ibrahim dikenal sebagai bapak nabi, seorang pria yang penuh iman dan takwa. Kekuatan iman beliau menurun kepada anak dan cucunya, sehingga Allah mengangkat sebagian dari mereka menjadi utusan-Nya. Semasa hidupnya, Nabi Ibrahim melakukan beberapa hijrah. Pertama, beliau hijrah dari negerinya ke Kanaan, Palestina, kemudian hijrah lagi ke Mesir. Dalam perjalanan ini, Nabi Ibrahim ditemani oleh Nabi Luth dan istrinya, Sarah, yang merupakan wanita yang taat, sabar, dan penyayang.

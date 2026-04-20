@@ -1,4 +1,9 @@
-# Nabi Isa alaihis salam  
+---
+title: "Nabi Isa"
+layout: default
+order: 24
+---
+# Nabi Isa  
 
 Kisah Nabi Isa alaihis salam adalah cerita penuh mukjizat dan pengajaran yang sangat dalam. Nabi Isa lahir dari keluarga mulia dan dibesarkan oleh ibu Maryam yang merupakan wanita suci, yang setelah berdoa kepada Allah, diberi anugerah seorang anak yang luar biasa. Maryam dipilih oleh Allah untuk menjadi ibu dari Nabi Isa, meskipun ia tidak menikah, dan ini merupakan sebuah mukjizat yang besar.
 

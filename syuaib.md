@@ -1,4 +1,9 @@
-**Kisah Nabi Syuaib Alaihissalam dan Kaum Madyan**  
+---
+title: "Nabi Syuaib"
+layout: default
+order: 13
+---
+# Nabi Syuaib  
 
 Kaum Madyan adalah keturunan bangsa Arab yang tinggal di sebuah wilayah subur di perbatasan Syam (Suriah). Sebagian besar penduduknya adalah pedagang dan petani, memanfaatkan kesuburan tanah yang diberikan oleh Allah. Namun, kaum ini memiliki kepercayaan menyimpang, menyembah pohon besar bernama Aikah, pohon yang dianggap suci dan menjadi simbol kepercayaan mereka.  
 

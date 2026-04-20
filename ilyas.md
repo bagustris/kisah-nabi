@@ -1,4 +1,9 @@
-# Kisah Nabi Ilyas Alaihissalam  
+---
+title: "Nabi Ilyas"
+layout: default
+order: 19
+---
+# Nabi Ilyas  
 
 **Mendatangkan Makanan dari Langit**
 

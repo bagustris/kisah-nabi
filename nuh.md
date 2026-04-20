@@ -1,5 +1,10 @@
+---
+title: "Nabi Nuh"
+layout: default
+order: 3
+---
 <div markdown="1">
-# Nabi Nuh a.s. 
+# Nabi Nuh 
 Kisah Nabi Nuh alaihissalam dimulai pada masa ketika sebagian besar umat manusia sudah mulai menyimpang dari ajaran Nabi Adam. Meskipun ada beberapa orang yang masih memegang teguh ajaran yang benar, kebanyakan mulai berpaling. Lima orang yang terkenal saleh dan menjadi panutan mulai meninggal dunia, dan dengan kehilangan mereka, kaum tersebut merasakan kesedihan yang mendalam.
 
 Pada saat itulah, iblis memanfaatkan kesempatan untuk menggoda mereka. Iblis menyarankan agar mereka membuat patung untuk mengenang orang-orang saleh tersebut. Seiring berjalannya waktu, patung-patung itu tidak hanya dipandang sebagai kenangan, namun mulai disembah sebagai Tuhan. Mereka yang awalnya setia pada ajaran Nabi Adam mulai tersesat.

@@ -1,4 +1,11 @@
-Nabi Yunus alaihis salam diutus oleh Allah untuk menyampaikan wahyu kepada penduduk kota Ninawa yang saat itu telah berpaling dari Allah dan menyembah berhala. Mereka menciptakan berbagai patung berhala dan mengikuti ajaran nenek moyang mereka. Meskipun Nabi Yunus lahir di tengah-tengah mereka, ia tetap teguh beriman kepada Allah, dan Allah mengangkatnya sebagai utusan untuk mengingatkan kaumnya kembali kepada iman yang benar.
+---
+title: "Nabi Yunus"
+layout: default
+order: 21
+---
+# Nabi Yunus
+
+Nabi Yunus alaihis salam diutus oleh Allah untuk menyampaikan wahyu kepada penduduk kota Ninawa yang saat itu telah berpaling dari Allah dan menyembah berhala.
 
 Namun, penduduk Ninawa tidak menerima dakwah Nabi Yunus. Mereka menganggapnya sebagai pembohong dan meragukan keberadaan Tuhan yang disembahnya. Nabi Yunus terus berdakwah dengan sabar, mengingatkan mereka akan azab bagi orang yang terus berbuat dosa dan janji surga bagi yang beriman. Sayangnya, mereka tetap keras kepala dan tidak mau mendengarkan. Nabi Yunus merasa kecewa dan berdoa kepada Allah memohon petunjuk. Namun sebelum wahyu datang, Nabi Yunus memutuskan untuk meninggalkan kaumnya.
 

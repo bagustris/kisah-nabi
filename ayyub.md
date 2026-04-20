@@ -1,3 +1,8 @@
+---
+title: "Nabi Ayyub"
+layout: default
+order: 12
+---
 # Nabi Ayyub 
 
 Nabi Ayub adalah seorang manusia yang diberkahi rahmat luar biasa dari Allah. Ia adalah keturunan Nabi Ibrahim dan tinggal di wilayah Arab dengan kehidupan yang sangat berkecukupan. Sejak kecil, Nabi Ayub sudah terbiasa bekerja keras, dan saat dewasa, ia menjadi seorang pengusaha sukses dengan ribuan ternak, tanah yang luas, serta banyak bangunan. Kehidupannya penuh berkah, dan ia dikenal sebagai sosok yang rupawan, bijaksana, dan sabar. 

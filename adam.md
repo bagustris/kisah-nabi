@@ -1,6 +1,8 @@
 ---
-title: "Nabi Adam AS"
+title: "Nabi Adam"
 description: "Kisah Nabi Adam alaihissalam, manusia pertama di bumi yang diciptakan oleh Allah dengan tangan-Nya sendiri"
+layout: default
+order: 1
 ---
 
 <div markdown="1">

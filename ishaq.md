@@ -1,4 +1,9 @@
-# Nabi Ishak  
+---
+title: "Nabi Ishaq"
+layout: default
+order: 9
+---
+# Nabi Ishaq  
 **Anak Nabi Ibrahim yang Bijaksana**
 
 Sebelum menikah dengan Hajar, Nabi Ibrahim telah memiliki seorang istri bernama Sarah. Sarah adalah seorang wanita yang salehah dan sabar, namun sayangnya sampai sekian lama mereka tidak memiliki anak. Setelah Hajar melahirkan Ismail, Allah mengabarkan kepada Nabi Ibrahim bahwa mereka akan memiliki anak yang lain dari Sarah. Kabar tersebut disampaikan malaikat yang menyamar sebagai tamu di rumah Nabi Ibrahim.

@@ -1,5 +1,10 @@
+---
+title: "Nabi Hud"
+layout: default
+order: 4
+---
 <div markdown="1">
-# Nabi Hud alaihissalam  
+# Nabi Hud  
 
 Kisah Nabi Hud alaihissalam bermula di kalangan kaum 'Ad, yang merupakan keturunan dari orang-orang yang selamat setelah banjir besar pada masa Nabi Nuh. Kaum 'Ad menetap di sebuah daerah yang subur dan indah yang dikenal dengan nama Hadramaut. Mereka hidup makmur dengan mengandalkan pertanian dan peternakan, serta memiliki pengetahuan dan keterampilan dalam bertani yang menghasilkan panen yang melimpah. Selain itu, mereka juga dikenal dengan tubuh yang tinggi dan besar, sehingga mampu bekerja lebih baik dari kaum lainnya.
 

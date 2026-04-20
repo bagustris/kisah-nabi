@@ -1,3 +1,8 @@
+---
+title: "Nabi Yusuf"
+layout: default
+order: 11
+---
 # Nabi Yusuf
 
 Nabi Yusuf Alaihissalam adalah salah satu nabi yang memiliki kisah penuh hikmah. Saat masih berusia 12 tahun, Nabi Yusuf bermimpi melihat 11 bintang, matahari, dan bulan bersujud kepadanya. Ketika menceritakan mimpi itu kepada ayahnya, Nabi Yakub Alaihissalam, beliau langsung memahami bahwa mimpi tersebut adalah pertanda kenabian Yusuf kelak. Namun, Nabi Yakub meminta Yusuf agar tidak menceritakan mimpinya kepada saudara-saudaranya, karena beliau khawatir hal itu akan menimbulkan kecemburuan.

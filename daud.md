@@ -1,4 +1,9 @@
-# Nabi Daud a.s. 
+---
+title: "Nabi Daud"
+layout: default
+order: 17
+---
+# Nabi Daud 
 
 Nabi Daud Alaihissalam adalah seorang raja yang pemberani. Setelah wafatnya Nabi Musa dan Nabi Harun, kaum Bani Israil kehilangan sosok pemimpin yang kuat. Pada masa itu, mereka hidup di bawah ancaman Raja Jalut yang kejam. Kaum Bani Israil menyadari perlunya seorang pemimpin untuk melawan Raja Jalut dan meminta Nabi Syamwil, utusan Allah, untuk menunjuk raja bagi mereka. Atas perintah Allah, Nabi Syamwil menunjuk Raja Thalut sebagai pemimpin.
 

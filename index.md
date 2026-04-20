@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Genealogi 25 Nabi
 
 {% include search.html %}

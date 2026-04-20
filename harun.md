@@ -1,4 +1,9 @@
-# Nabi Harun a.s.
+---
+title: "Nabi Harun"
+layout: default
+order: 15
+---
+# Nabi Harun
 
 Nabi Harun Alaihissalam, sang juru bicara dan saudara kandung Nabi Musa, lahir sebelum Firaun mengeluarkan perintah untuk membunuh semua bayi laki-laki dari kaum Bani Israil. Berbeda dengan Nabi Musa yang lahir tepat saat perintah itu dikeluarkan, Nabi Harun tidak perlu menghadapi ancaman tersebut. Meskipun begitu, kehidupan mereka terpisah saat kecil, dengan Nabi Musa yang dihanyutkan di Sungai Nil hingga ditemukan oleh istri Firaun.
 

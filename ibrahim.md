@@ -1,11 +1,13 @@
 ---
-title: "Nabi Ibrahim AS"
+title: "Nabi Ibrahim"
 description: "Kisah Nabi Ibrahim alaihissalam, Bapak para nabi yang dikenal karena keteguhannya melawan penyembahan berhala"
+layout: default
+order: 6
 ---
 
 <div markdown="1">
 
-# Nabi Ibrahim alaihissalam  
+# Nabi Ibrahim  
 
 Nabi Ibrahim dikenal sebagai Bapak para nabi (lihat bagan sebelumnya, meski Nabi Adam telah beranak pinak, namun semua Rasul setelah Nabi Ibrahim merupakan keturunannya). Ketika iblis diusir dari surga, ia berjanji akan menggoda dan menyesatkan seluruh umat manusia. Iblis pun berhasil memenuhi janjinya, membuat umat manusia terbagi menjadi tiga golongan: menyembah patung-patung berhala, menyembah benda langit, dan menyembah Raja Namrud dari Babilonia.
 

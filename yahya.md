@@ -1,4 +1,9 @@
-# Nabi Yahya alaihis salam  
+---
+title: "Nabi Yahya"
+layout: default
+order: 23
+---
+# Nabi Yahya  
 
 Kisah Nabi Yahya alaihis salam menggambarkan keteguhan iman dan kesetiaannya dalam menyampaikan wahyu Allah, meskipun menghadapi berbagai tantangan besar. Nabi Yahya lahir di masa yang penuh dengan kebaikan dan kejahatan yang saling beriringan. Di tengah situasi ini, banyak orang yang mengaku beriman tetapi masih melakukan dosa ketika tidak ada yang melihat. Nabi Yahya, yang merupakan anak yang saleh, memilih untuk belajar dan beribadah sejak kecil.
 

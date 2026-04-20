@@ -1,4 +1,9 @@
-# Nabi Zakaria alaihis salam  
+---
+title: "Nabi Zakariya"
+layout: default
+order: 22
+---
+# Nabi Zakariya  
 
 
 Nabi Zakaria alaihis salam adalah seorang nabi yang diutus kepada kaum Bani Israil. Beliau dikenal sebagai seorang yang sangat taat beribadah dan selalu memohon kepada Allah. Nabi Zakaria menikah dengan seorang perempuan salehah bernama Isya binti Imran, yang merupakan keluarga dari Nabi Harun. Mereka berdua sangat menginginkan anak, tetapi waktu terus berlalu tanpa dikaruniai keturunan.

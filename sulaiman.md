@@ -1,4 +1,9 @@
-# Nabi Sulaiman a.s.  
+---
+title: "Nabi Sulaiman"
+layout: default
+order: 18
+---
+# Nabi Sulaiman  
 
 Nabi Sulaiman, putra dari Nabi Daud, adalah seorang raja yang sangat cerdas dan bijaksana. Sejak kecil, ia menunjukkan tanda-tanda keistimewaan. Meskipun ayahnya seorang raja yang besar, Nabi Sulaiman tetap rendah hati, rajin beribadah, dan tidak pernah sombong. Semua orang percaya bahwa Nabi Sulaiman akan melanjutkan pemerintahan ayahnya.
 

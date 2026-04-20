@@ -1,9 +1,11 @@
 ---
-title: "Nabi Musa AS"
+title: "Nabi Musa"
 description: "Kisah Nabi Musa Alaihissalam, manusia yang berbicara dengan Allah dan memimpin Bani Israil keluar dari Mesir"
+layout: default
+order: 14
 ---
 
-# Kisah Nabi Musa Alaihissalam  
+# Nabi Musa  
 **Manusia yang Berbicara dengan Allah**  
 
 Mesir adalah sebuah negeri yang besar dan makmur, tetapi kekuatan dan kemakmuran tersebut hanya dinikmati oleh Firaun dan para pengikutnya. Firaun adalah seorang raja yang zalim, menyebut dirinya sebagai dewa, dan membuat sistem kasta yang menindas kaum Bani Israil.  

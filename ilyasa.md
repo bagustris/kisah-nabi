@@ -1,4 +1,9 @@
-# Nabi Ilyasa Alaihissalam   
+---
+title: "Nabi Ilyasa"
+layout: default
+order: 20
+---
+# Nabi Ilyasa   
 **Penerus Perjuangan Nabi Ilyas**  
 
 Nabi Ilyasa Alaihissalam adalah penerus perjuangan Nabi Ilyas Alaihissalam. Beliau lahir di Yordania, di sebuah keluarga sederhana. Ayahnya, Aktub bin Ajuz, merupakan keturunan dari Nabi Yusuf Alaihissalam. Keluarga mereka mencari nafkah sebagai petani dan penggembala. Namun, Nabi Ilyasa kecil, yang bernama Ilyasa saat itu, menderita sakit parah sejak kecil, sehingga ia hanya bisa terbaring sepanjang waktu.  

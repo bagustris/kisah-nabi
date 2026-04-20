@@ -8,9 +8,10 @@ exclude:
 sass:
   style: compressed
 
-remote_theme: pages-themes/primer
+remote_theme: bagustris/primer2-theme
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag

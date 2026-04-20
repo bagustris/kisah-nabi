@@ -1,5 +1,6 @@
 ---
 nav_exclude: true
+mermaid: true
 ---
 
 # Genealogi 25 Nabi

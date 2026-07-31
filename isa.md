@@ -16,3 +16,6 @@ Para imam besar dan penguasa saat itu merasa terancam dengan pengaruh Nabi Isa y
 Akhirnya, Allah memutuskan untuk mengangkat Nabi Isa ke langit dan menyelamatkannya dari penyaliban, meskipun orang-orang kafir berpikir bahwa mereka telah menyalibnya. Nabi Isa diyakini masih hidup di langit dan akan kembali sebelum Hari Kiamat nanti untuk menyelesaikan tugasnya. Hal ini juga dibenarkan oleh Nabi Muhammad dalam hadis-hadisnya.
 
 Kisah Nabi Isa mengajarkan kita tentang keteguhan iman, kebenaran ajaran Allah, serta mukjizat yang diberikan kepada para nabi. Meskipun menghadapi berbagai rintangan dan pengkhianatan, Nabi Isa terus menyampaikan wahyu Allah dengan sabar dan penuh keyakinan.
+
+## Nasab (Silsilah)
+Isa bin Maryam binti 'Imran, dari garis keturunan Nabi Daud dan Sulaiman melalui ibunya, Maryam, karena beliau dilahirkan tanpa ayah atas kehendak Allah.

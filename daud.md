@@ -18,3 +18,6 @@ Allah memberikan banyak mukjizat kepada Nabi Daud, termasuk kemampuan melembutka
 Sebagai bentuk rasa syukur, Nabi Daud mengajak putranya, Sulaiman, untuk membangun sebuah masjid yang dikenal sebagai Baitul Maqdis. Hingga akhir hayatnya, Nabi Daud menjalani hidup penuh ketaatan kepada Allah, termasuk dengan melaksanakan puasa Nabi Daud, yaitu sehari berpuasa dan sehari berbuka.
 
 Kisah Nabi Daud mengajarkan keberanian, keadilan, serta rasa syukur yang mendalam kepada Allah Subhanahu wa Ta'ala.
+
+## Nasab (Silsilah)
+Daud bin Isya (Yisai) bin 'Uwaid bin Bau'az, dari suku Yahudza bin Yakub bin Ishaq bin Ibrahim alaihissalam.

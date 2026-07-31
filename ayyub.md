@@ -20,3 +20,6 @@ Akhirnya, Allah mengabulkan doa Nabi Ayub. Ia diperintahkan untuk menghentakkan 
 Nabi Ayub juga ingat sumpahnya untuk menghukum istrinya karena tergoda oleh bujukan Iblis. Namun, Allah memerintahkannya untuk memukul istrinya dengan seikat rumput kecil agar sumpahnya tetap terlaksana tanpa menyakitinya. Setelah cobaan itu, Allah mengembalikan semua nikmat kepada Nabi Ayub. Ia diberi rezeki berlimpah dan keturunan yang banyak.
 
 Kesabaran dan keteguhan Nabi Ayub adalah pelajaran berharga bagi umat manusia. Cobaan yang ia hadapi menunjukkan bahwa keimanan dan ketakwaan dapat mengalahkan segala ujian.
+
+## Nasab (Silsilah)
+Ayyub bin Amush bin Razih bin Al-'Aish bin Ishaq bin Ibrahim alaihissalam. Beliau adalah keturunan Ishaq melalui saudara Nabi Yakub, yaitu Al-'Aish (Esau), sehingga masih satu nasab dengan Bani Israil meski dari cabang yang berbeda. Menurut salah satu riwayat, Nabi Zulkifli adalah putra beliau.

@@ -26,3 +26,6 @@ Peristiwa ini dikenal sebagai Hari Asyura, hari kemenangan bagi kaum Bani Israil
 
 **Hikmah dari Kisah Nabi Musa**  
 Kisah Nabi Musa mengajarkan kita tentang kekuatan iman, kejujuran, dan keberanian menghadapi kezaliman. Mukjizat dan perjuangan Nabi Musa menunjukkan bahwa pertolongan Allah akan selalu datang kepada hamba-Nya yang beriman dan bersabar.  
+
+## Nasab (Silsilah)
+Musa bin Imran bin Qahits bin Lawi bin Yakub bin Ishaq bin Ibrahim alaihissalam, dari suku Lawi, Bani Israil. Nabi Harun adalah saudara kandungnya.

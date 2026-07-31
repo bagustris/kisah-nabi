@@ -38,4 +38,7 @@ Peristiwa ini menjadi awal mula ibadah haji bagi umat Islam, di mana umat manusi
 
 Cerita ini mengajarkan kita tentang keteguhan iman, kesabaran dalam menghadapi ujian, dan pentingnya mengikuti perintah Allah dengan penuh keikhlasan.
 
+## Nasab (Silsilah)
+Ismail bin Ibrahim, putra sulung Nabi Ibrahim dari Siti Hajar. Beliau menjadi moyang bangsa Arab 'Adnaniyah, dan dari garis keturunannya (melalui 'Adnan) kelak lahir Nabi Muhammad shallallahu 'alaihi wasallam, puluhan generasi kemudian.
+
 </div>

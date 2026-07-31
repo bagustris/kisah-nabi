@@ -19,3 +19,6 @@ Namun, awan hitam itu membawa gumpalan api yang jatuh dan membakar apa saja yang
 
 **Hikmah dari Kisah Nabi Syuaib**  
 Kisah Nabi Syuaib mengajarkan pentingnya kejujuran dalam berdagang dan berinteraksi dengan sesama. Allah tidak menyukai kecurangan, keserakahan, dan penindasan terhadap yang lemah. Sebaliknya, Allah akan melimpahkan rahmat-Nya kepada orang-orang yang beriman, jujur, dan adil. Semoga kita bisa mengambil pelajaran dari kisah ini.
+
+## Nasab (Silsilah)
+Syuaib bin Mikail, diriwayatkan sebagai keturunan Madyan bin Ibrahim (dari istri Nabi Ibrahim setelah wafatnya Sarah, yaitu Qanthura). Beliau diutus kepada penduduk Madyan.

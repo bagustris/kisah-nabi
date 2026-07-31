@@ -84,4 +84,7 @@ Dalam surat Al-Baqarah (2:31) disebutkan:
 </p>
 
 "Dan Dia mengajarkan kepada Adam nama-nama (benda) semuanya, kemudian mengemukakannya kepada para malaikat, seraya berfirman, 'Sebutkanlah kepada-Ku nama-nama (benda) ini jika kamu memang benar!'" (QS. Al-Baqarah: 31)
+
+## Nasab (Silsilah)
+Nabi Adam diciptakan langsung oleh Allah tanpa melalui proses kelahiran, sehingga tidak memiliki nasab dari manusia lain. Beliau adalah bapak seluruh umat manusia; garis keturunannya diteruskan oleh Nabi Idris beberapa generasi kemudian (melalui Syits bin Adam).
 </div>

@@ -22,4 +22,7 @@ Ternyata, kakek itu adalah jelmaan iblis yang ingin menguji kesabaran Nabi Zulki
 
 Hingga akhir hayatnya, Nabi Zulkifli tetap memegang teguh sumpahnya, berpuasa di siang hari, dan beribadah di malam hari. Ia menjadi teladan sebagai pemimpin yang sabar, adil, dan selalu menepati janji.
 
+## Nasab (Silsilah)
+Menurut salah satu riwayat, Zulkifli adalah putra Nabi Ayyub alaihissalam, sehingga merupakan keturunan langsung dari garis Ishaq bin Ibrahim melalui Al-'Aish.
+
 </div>

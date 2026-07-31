@@ -32,4 +32,7 @@ Kisah ini mengajarkan kita tentang pentingnya bersyukur atas nikmat yang diberik
 
 Dengan demikian, kisah Nabi Hud memberikan pelajaran berharga tentang keteguhan iman, pentingnya mengikuti ajaran Allah, dan bahaya dari menyimpang dari jalan yang benar.
 
+## Nasab (Silsilah)
+Hud bin Abdullah bin Rabah bin Al-Khuluj bin Al-'Ash bin Iram bin Aush bin Aram bin Sam bin Nuh alaihissalam. Beliau diutus kepada kaum 'Ad, keturunan Sam bin Nuh, satu jalur nasab dengan Nabi Saleh.
+
 </div>

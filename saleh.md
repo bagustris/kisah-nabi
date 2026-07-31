@@ -35,4 +35,7 @@ Maka mereka ditimpa gempa, maka jadilah mereka mayat-mayat yang bergelimpangan d
 Setelah peristiwa itu, Nabi Saleh melanjutkan dakwahnya ke Palestina dan terus berusaha mengajak umat manusia untuk kembali ke jalan yang benar, meskipun ia sering menghadapi tantangan dan godaan dari iblis yang masih berusaha menggoda manusia.
 
 Kisah Nabi Saleh ini mengajarkan kita pentingnya untuk tidak menyembah selain Allah, serta bagaimana kesombongan dan keingkaran terhadap peringatan Allah bisa membawa kehancuran. Semoga kita bisa mengambil hikmah dan pelajaran dari kisah ini.
+
+## Nasab (Silsilah)
+Saleh bin Ubaid bin Asif bin Masih bin Ubaid bin Hadzir bin Tsamud bin 'Abir bin Iram bin Sam bin Nuh alaihissalam. Beliau diutus kepada kaum Tsamud, juga keturunan Sam bin Nuh, satu jalur nasab dengan Nabi Hud.
 </div>

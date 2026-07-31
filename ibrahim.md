@@ -78,4 +78,7 @@ Ayat 37:
 Ayat-ayat diatas mengandung visi keluarga Nabi Ibrahim yakni: (1) menanamkan tauhid, (2) membiasakan ibadah, (3) memperbaiki akhlaq, dan (4) membangun keterampilan untuk kemakmuran.
 
 Kisah Nabi Ibrahim ini mengajarkan kita untuk tidak menyembah selain Allah, serta pentingnya mencari kebenaran meskipun harus menghadapi tantangan dan penolakan.
+
+## Nasab (Silsilah)
+Ibrahim bin Azar (Tarih) bin Nahur bin Sarugh bin Ra'u bin Falij bin 'Abir bin Syalih bin Arfakhsyad bin Sam bin Nuh alaihissalam. Beliau dijuluki "Bapak para Nabi" karena dari kedua putranya, Ismail (dari Siti Hajar) dan Ishaq (dari Siti Sarah), lahir garis keturunan yang melahirkan hampir seluruh nabi setelahnya. Nabi Luth adalah keponakan beliau (anak dari saudaranya, Haran).
 </div>

@@ -23,3 +23,6 @@ Untuk mencegah permusuhan, Nabi Ishak menyarankan Yakub untuk pergi ke Irak dan 
 Setelah Nabi Ishak wafat pada usia 180 tahun, beliau dimakamkan di sebuah desa bernama Hebron, yang terletak di Palestina. Di tempat itu pula, Nabi Ibrahim, Sarah, Nabi Yakub, dan Leah (istri Nabi Yakub) dimakamkan. Di daerah tersebut kemudian dibangun Masjid Ibrahim sebagai tempat penghormatan bagi para nabi.
 
 Cerita ini mengajarkan kita tentang kesabaran, keteguhan iman, dan pentingnya mendidik anak dengan ajaran agama yang benar, serta menunjukkan bagaimana Allah mengabulkan doa umat-Nya pada waktu yang tepat.
+
+## Nasab (Silsilah)
+Ishaq bin Ibrahim, putra Nabi Ibrahim dari Siti Sarah. Dari beliau lahir Nabi Yakub, dan dari saudara kembarnya, Al-'Aish (Esau), lahir garis keturunan yang melahirkan Nabi Ayyub.

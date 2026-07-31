@@ -13,3 +13,6 @@ Pada suatu saat, ketika Nabi Zakaria berdoa memohon kepada Allah untuk diberikan
 Anak tersebut diberi nama Yahya. Nabi Zakaria sangat bersyukur dan takjub atas karunia yang diberikan oleh Allah. Beberapa waktu setelah itu, ketika Nabi Zakaria melihat tanda-tanda bahwa Allah telah mengabulkan doa-doanya, tiba-tiba beliau tidak dapat berbicara. Beliau menjadi bisu sebagai tanda kebesaran Allah. Nabi Zakaria bersabar dan terus berzikir serta memanjatkan doa.
 
 Allah memberikan karunia kepada Nabi Zakaria dan istrinya dengan lahirnya Nabi Yahya, yang kelak menjadi seorang nabi dan rasul yang diutus untuk kaum Bani Israil. Nabi Yahya dikenal sebagai seorang nabi yang sangat saleh dan memiliki misi untuk mengajak umatnya kembali kepada jalan Allah.
+
+## Nasab (Silsilah)
+Zakariya bin Dan (Barkhiya), seorang imam Bani Israil yang diriwayatkan bernasab hingga Nabi Sulaiman bin Daud alaihissalam. Beliau adalah ayah dari Nabi Yahya.

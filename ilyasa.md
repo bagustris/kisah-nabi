@@ -28,3 +28,6 @@ Nabi Ilyasa terus berdakwah hingga usia 90 tahun. Dalam riwayat, kaum Nabi Ilyas
 **Pesan Inspiratif dari Kisah Nabi Ilyasa**  
 Kisah Nabi Ilyasa mengajarkan tentang kesabaran, keteguhan iman, dan pentingnya memohon pertolongan kepada Allah dalam menghadapi ujian hidup. Mukjizat-mukjizat yang diberikan Allah kepada Nabi Ilyasa menunjukkan bahwa rahmat Allah tidak terbatas bagi hamba-hamba-Nya yang beriman dan bertakwa.  
 
+## Nasab (Silsilah)
+Ilyasa' bin Akhthub, diriwayatkan sebagai keturunan Nabi Yusuf bin Yakub alaihissalam. Beliau adalah murid sekaligus penerus dakwah Nabi Ilyas.
+

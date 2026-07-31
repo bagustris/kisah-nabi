@@ -31,4 +31,7 @@ Dalam Al-Quran disebutkan bahwa,
 Setelah peristiwa besar itu, Nabi Nuh melepaskan burung-burung dan hewan-hewan yang ada di bahtera, dan mereka menyebar ke seluruh penjuru bumi, begitu juga dengan kaum Nabi Nuh yang mulai membangun kembali peradaban.
 
 Dengan begitu, kita bisa melihat betapa besar perjuangan Nabi Nuh dalam menyelamatkan umatnya dari kesesatan, meskipun banyak yang menentangnya. Kisah ini mengajarkan kita tentang kesabaran, keteguhan iman, dan pentingnya mengikuti petunjuk Allah.
+
+## Nasab (Silsilah)
+Nuh bin Lamik bin Metusyalih bin Idris (Akhnukh) alaihissalam, keturunan Nabi Adam generasi kesepuluh. Nabi Nuh memiliki tiga putra yang selamat dalam bahtera: Sam, Ham, dan Yafits. Dari garis Sam bin Nuh inilah kelak lahir keturunan yang melahirkan Nabi Hud, Nabi Saleh, Nabi Ibrahim, dan Nabi Luth.
 </div>

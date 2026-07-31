@@ -16,3 +16,6 @@ Nabi Yunus pun melompat ke laut dan tenggelam dalam kegelapan malam. Namun, seek
 Ikan paus itu membawa Nabi Yunus ke sebuah pulau dan mengeluarkannya dari perutnya. Meski selamat, tubuh Nabi Yunus lemah dan kesakitan. Namun, Allah menumbuhkan pohon labu yang besar dan lebar untuk melindunginya dari terik matahari. Nabi Yunus bertahan hidup dengan bantuan pohon labu tersebut. Beberapa waktu kemudian, tubuhnya pulih dan ia kembali sehat.
 
 Setelah itu, Nabi Yunus kembali ke kota Ninawa dan menyampaikan wahyu Allah kepada penduduknya. Penduduk yang sebelumnya menyembah berhala kini bertobat dan beriman kepada Allah. Mereka bersujud syukur karena Allah telah menerima taubat mereka, dan hidup mereka berubah menjadi makmur dan bahagia. Nabi Yunus terus melanjutkan dakwahnya hingga usia 110 tahun.
+
+## Nasab (Silsilah)
+Yunus bin Matta alaihissalam, dari kalangan Bani Israil keturunan Nabi Yakub, diutus kepada penduduk kota Ninawa (Niniveh).

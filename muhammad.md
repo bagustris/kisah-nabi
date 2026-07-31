@@ -16,3 +16,6 @@ Sejak kecil, Nabi Muhammad dikenal sebagai anak yang jujur dan dapat dipercaya. 
 Ketika berusia 25 tahun, Nabi Muhammad menikah dengan Khadijah, seorang janda kaya yang berusia 40 tahun. Khadijah adalah wanita mulia yang mendukung Nabi Muhammad dalam menyebarkan agama Islam. Ia rela mengorbankan hartanya demi menegakkan agama Allah. Nabi Muhammad dan Khadijah memiliki hubungan yang penuh kasih dan saling mendukung dalam perjuangan dakwah.
 
 Kisah Nabi Muhammad mengajarkan kita tentang kesabaran, kejujuran, dan keteguhan iman, serta bagaimana Allah selalu melindungi dan memberikan jalan keluar bagi umat-Nya yang bertakwa.
+
+## Nasab (Silsilah)
+Muhammad bin Abdullah bin Abdul Muttalib bin Hasyim bin Abdu Manaf, dari suku Quraisy, keturunan Nabi Ismail bin Ibrahim melalui jalur 'Adnan, puluhan generasi setelahnya.

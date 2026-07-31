@@ -22,4 +22,7 @@ Allah benar-benar memenuhi doa Nabi Yakub. Dari keturunannya lahir banyak nabi b
 
 Di akhir hayatnya, Nabi Yakub tinggal bersama Nabi Yusuf di Mesir. Kisah beliau menjadi inspirasi besar bagi umat manusia tentang kesabaran, kebijaksanaan, dan kasih sayang kepada keluarga.
 
+## Nasab (Silsilah)
+Yakub (Israil) bin Ishaq bin Ibrahim alaihissalam. Beliau memiliki dua belas putra yang menjadi cikal bakal dua belas suku Bani Israil, di antaranya Yusuf (dari Rahil), Lawi (moyang Musa dan Harun), dan Yahudza (moyang Daud dan Sulaiman).
+
 </div>

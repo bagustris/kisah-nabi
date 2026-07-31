@@ -16,3 +16,6 @@ Namun, meskipun banyak orang yang mengaguminya, tidak semua orang menerima dakwa
 Namun, meskipun Allah memberikan perlindungan pada para nabi, akhirnya Nabi Yahya dan Nabi Zakaria wafat dalam penderitaan, meninggalkan kaum Bani Israil yang merugi karena terus menolak dan memusuhi utusan-utusan Allah. Setelah mereka pergi, Allah mengutus nabi besar lainnya, yakni Nabi Isa alaihis salam, untuk membimbing mereka kembali ke jalan yang benar. 
 
 Kisah ini mengajarkan kita tentang keteguhan iman dan keikhlasan dalam menjalankan perintah Allah, meskipun menghadapi rintangan besar.
+
+## Nasab (Silsilah)
+Yahya bin Zakariya alaihissalam, lahir dari doa Nabi Zakariya di usia lanjut.

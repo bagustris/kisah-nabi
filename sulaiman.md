@@ -18,3 +18,6 @@ Ratu Bilkis menerima surat itu, namun ia tidak begitu saja menuruti ajakan terse
 Ratu Bilkis terkejut dengan kekuatan Nabi Sulaiman dan tidak bisa berkata-kata setelah melihat semua keajaiban istana dan pasukan yang begitu besar. Nabi Sulaiman kemudian menanyakan apa yang paling disukai oleh Ratu Bilkis. Dengan bantuan jin, Ratu Bilkis yang berada di kerajaan Saba bisa berpindah ke istana Nabi Sulaiman dalam waktu sekejap. Melihat segala keajaiban yang ditunjukkan Nabi Sulaiman, Ratu Bilkis akhirnya menyadari kebesaran Allah dan memutuskan untuk beriman. Seluruh rakyat kerajaan Saba pun mengikuti jejaknya dan beriman kepada Allah.
 
 Selama masa pemerintahannya, Nabi Sulaiman juga melanjutkan perjuangan ayahnya, Nabi Daud, untuk membangun Masjid Al-Aqsa. Nabi Sulaiman berdoa kepada Allah agar diberikan kebijaksanaan, kekuatan, dan kerajaan yang tidak ada tandingannya. Sebelum masjid selesai dibangun, Nabi Sulaiman wafat dan kembali kepada Allah.
+
+## Nasab (Silsilah)
+Sulaiman bin Daud alaihissalam, meneruskan kenabian dan kerajaan ayahnya di Bani Israil.

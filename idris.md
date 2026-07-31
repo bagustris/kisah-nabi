@@ -37,4 +37,7 @@ Dalam surat Al-Anbiya, Allah berfirman:
 
 
 Dengan demikian, kisah Nabi Idris mengajarkan kita tentang ketekunan dalam beribadah, kecerdasan dalam ilmu, serta kerendahan hati dalam memberikan bantuan kepada orang lain tanpa pamrih.
+
+## Nasab (Silsilah)
+Idris bin Yarid bin Mahlail bin Qainan bin Anusy bin Syits bin Adam alaihissalam, keturunan generasi keenam dari Nabi Adam. Garis keturunannya diteruskan hingga Nabi Nuh beberapa generasi kemudian.
 </div>

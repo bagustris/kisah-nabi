@@ -52,3 +52,7 @@ Kisah ini mengajarkan kita pentingnya mengikuti perintah Allah, menjauhi perbuat
 
 Referensi:  
 [1] Bunch, T. E., LeCompte, M. A., Adedeji, A. V., Wittke, J. H., Burleigh, T. D., Hermes, R. E., Mooney, C., Batchelor, D., Wolbach, W. S., Kathan, J., Kletetschka, G., Patterson, M. C. L., Swindel, E. C., Witwer, T., Howard, G. A., Mitra, S., Moore, C. R., Langworthy, K., Kennett, J. P., … Silvia, P. J. (2021). A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea. In Scientific Reports (Vol. 11, Issue 1). Nature Publishing Group UK. https://doi.org/10.1038/s41598-021-97778-3
+
+## Nasab (Silsilah)
+Luth bin Haran bin Azar (Tarih). Beliau adalah keponakan Nabi Ibrahim (anak dari saudara kandung Ibrahim, Haran), bukan keturunan langsung Nabi Ibrahim.
+</div>

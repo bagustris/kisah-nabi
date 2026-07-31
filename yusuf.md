@@ -24,3 +24,6 @@ Saudara-saudaranya kembali ke rumah dengan perasaan bersalah karena Benyamin ter
 Nabi Yusuf meminta agar mereka membawa bajunya kepada ayah mereka. Ketika baju itu diusapkan ke wajah Nabi Yakub, penglihatannya yang hilang pun kembali. Nabi Yakub dan seluruh keluarganya kemudian pindah ke Mesir, di mana mereka hidup dengan penuh kedamaian. Sesuai dengan mimpi Nabi Yusuf saat kecil, seluruh keluarganya bersujud sebagai tanda hormat kepadanya, menunjukkan kebesaran dan rencana Allah yang indah.
 
 Kisah ini mengajarkan tentang kesabaran, pengampunan, dan kebijaksanaan dalam menghadapi ujian hidup.
+
+## Nasab (Silsilah)
+Yusuf bin Yakub bin Ishaq bin Ibrahim alaihissalam, putra kesayangan Nabi Yakub dari istrinya, Rahil. Nabi Ilyasa' diriwayatkan berasal dari garis keturunan Yusuf, beberapa generasi setelahnya.

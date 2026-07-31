@@ -20,3 +20,6 @@ Samiri menciptakan patung sapi yang dapat mengeluarkan suara jika tertiup angin,
 Ketika Nabi Musa kembali dari puncak Bukit Sinai dan melihat kaumnya menyembah berhala, ia sangat marah dan kecewa. Nabi Musa dan Nabi Harun kemudian menghancurkan patung-patung berhala tersebut. Setelah itu, mereka terus berdakwah untuk mengembalikan kaum Bani Israil ke jalan yang benar.
 
 Nabi Harun tetap mendampingi Nabi Musa hingga akhir hayatnya. Beliau meninggal dunia di sebuah bukit, tepat 40 tahun setelah kaum Bani Israil keluar dari Mesir. Perjuangan Nabi Harun sebagai seorang nabi yang setia menemani saudaranya menjadi salah satu teladan besar bagi umat manusia.
+
+## Nasab (Silsilah)
+Harun bin Imran bin Qahits bin Lawi bin Yakub alaihissalam, saudara kandung Nabi Musa dari suku Lawi, Bani Israil. Nabi Ilyas diriwayatkan sebagai keturunannya beberapa generasi kemudian.

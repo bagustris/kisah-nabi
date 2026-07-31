@@ -26,3 +26,6 @@ Di akhir hayatnya, Nabi Ilyas tidak meninggal dunia. Allah mengangkat beliau ke 
 
 **Pesan Inspiratif dari Kisah Nabi Ilyas**  
 Kisah Nabi Ilyas mengajarkan kita untuk selalu percaya kepada Allah meskipun menghadapi tantangan besar. Perjuangan beliau menyadarkan kita bahwa kebaikan dan keimanan selalu membawa keberkahan.
+
+## Nasab (Silsilah)
+Ilyas bin Yasin bin Fanhash bin Al-'Aizar bin Harun bin Imran alaihissalam, keturunan Nabi Harun dari Bani Israil. Nabi Ilyasa' adalah murid sekaligus penerus dakwahnya.

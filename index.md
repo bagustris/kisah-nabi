@@ -15,8 +15,8 @@ graph TD
     Idris -.-> Nuh
     Nuh -.-> Hud
     Nuh -.-> Saleh
-    Hud -.-> Ibrahim
-    Hud -.-> Luth
+    Nuh -.-> Ibrahim
+    Nuh -.-> Luth
     Ibrahim --> Ismail
     Ibrahim --> Ishaq
     Ishaq --> Yakub
@@ -31,7 +31,7 @@ graph TD
     Sulaiman -..-> Zakariya
     Sulaiman -...-> Isa
     Harun -...-> Ilyas
-    Harun -...-> Ilyasa
+    Yusuf -...-> Ilyasa
     Yakub -.....-> Yunus
     Zakariya --> Yahya
     Ismail -.........-> Muhammad
@@ -64,7 +64,8 @@ graph TD
 ```
 
 Keterangan:  
-- Jalur keturunan diambil dari pihak ayah.
+- Jalur keturunan diambil dari pihak ayah, kecuali Nabi Isa (melalui garis ibu, Maryam binti Imran, karena beliau tidak berayah).
 - Cara membaca berdasarkan urutan waktu: dari atas ke bawah, dari kiri ke kanan.
 - Panah menunjukkan keturunan langsung (bapak - anak).
 - Panah putus-putus menunjukkan keturunan tidak langsung (cucu, cicit, dst).
+- Nabi Luth adalah keponakan Nabi Ibrahim (anak dari Nabi Harran, saudara Ibrahim), bukan keturunan langsung; keduanya sama-sama ditarik dari garis Nabi Nuh untuk kemudahan visual.

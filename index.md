@@ -5,8 +5,6 @@ mermaid: true
 
 # Genealogi 25 Nabi
 
-{% include search.html %}
-
 Klik Nama Nabi untuk mengetahui kisahnya (gunakan PC atau tablet agar lebih optimal).
 
 ```mermaid

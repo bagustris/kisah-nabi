@@ -1,5 +1,6 @@
 ---
 title: "Nabi Luth"
+description: "Kisah Nabi Luth alaihissalam, nabi yang diutus kepada kaum Sodom dan hukuman pedih atas perbuatan keji mereka"
 layout: default
 order: 7
 ---

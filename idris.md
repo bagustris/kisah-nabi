@@ -1,5 +1,6 @@
 ---
 title: "Nabi Idris"
+description: "Kisah Nabi Idris alaihissalam, nabi pertama yang menulis dengan pena dan dikenal karena ketekunan ibadah serta keluasan ilmunya"
 layout: default
 order: 2
 ---

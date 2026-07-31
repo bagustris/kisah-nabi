@@ -1,5 +1,6 @@
 ---
 title: "Nabi Isa"
+description: "Kisah Nabi Isa alaihissalam, putra Maryam yang lahir tanpa ayah dengan mukjizat berbicara sejak bayi"
 layout: default
 order: 24
 ---

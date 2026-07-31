@@ -1,5 +1,6 @@
 ---
 title: "Nabi Ishaq"
+description: "Kisah Nabi Ishaq alaihissalam, putra Nabi Ibrahim dari Siti Sarah yang lahir sebagai jawaban atas doa panjang"
 layout: default
 order: 9
 ---

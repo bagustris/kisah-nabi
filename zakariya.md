@@ -1,5 +1,6 @@
 ---
 title: "Nabi Zakariya"
+description: "Kisah Nabi Zakariya alaihissalam, nabi yang dikaruniai putra di usia lanjut sebagai jawaban atas doanya"
 layout: default
 order: 22
 ---

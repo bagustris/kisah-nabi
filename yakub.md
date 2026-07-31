@@ -1,5 +1,6 @@
 ---
 title: "Nabi Yakub"
+description: "Kisah Nabi Yakub alaihissalam, ayah Nabi Yusuf dan leluhur dua belas suku Bani Israil"
 layout: default
 order: 10
 ---

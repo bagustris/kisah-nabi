@@ -1,5 +1,6 @@
 ---
 title: "Nabi Hud"
+description: "Kisah Nabi Hud alaihissalam, nabi yang diutus kepada kaum 'Ad yang sombong dan dibinasakan oleh angin dahsyat"
 layout: default
 order: 4
 ---

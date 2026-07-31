@@ -1,5 +1,6 @@
 ---
 title: "Nabi Yusuf"
+description: "Kisah Nabi Yusuf alaihissalam, dari sumur dan penjara hingga menjadi bendahara Mesir yang bijaksana"
 layout: default
 order: 11
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Nabi Zulkifli"
+description: "Kisah Nabi Zulkifli alaihissalam, pemimpin yang adil, sabar, dan selalu menepati janjinya"
 layout: default
 order: 16
 ---

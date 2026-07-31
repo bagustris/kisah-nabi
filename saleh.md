@@ -1,5 +1,6 @@
 ---
 title: "Nabi Saleh"
+description: "Kisah Nabi Saleh alaihissalam, nabi yang diutus kepada kaum Tsamud dengan mukjizat unta betina dari batu"
 layout: default
 order: 5
 ---

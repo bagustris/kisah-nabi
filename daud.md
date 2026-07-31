@@ -1,5 +1,6 @@
 ---
 title: "Nabi Daud"
+description: "Kisah Nabi Daud alaihissalam, raja yang adil dengan mukjizat suara merdu dan besi yang melunak di tangannya"
 layout: default
 order: 17
 ---

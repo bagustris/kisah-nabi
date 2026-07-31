@@ -1,5 +1,6 @@
 ---
 title: "Nabi Harun"
+description: "Kisah Nabi Harun alaihissalam, saudara dan pendamping setia Nabi Musa yang fasih dalam berdakwah"
 layout: default
 order: 15
 ---

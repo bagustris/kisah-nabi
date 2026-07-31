@@ -1,5 +1,6 @@
 ---
 title: "Nabi Yunus"
+description: "Kisah Nabi Yunus alaihissalam, nabi yang ditelan ikan besar dan taubat penduduk kota Ninawa"
 layout: default
 order: 21
 ---

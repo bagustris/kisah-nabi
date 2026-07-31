@@ -1,5 +1,6 @@
 ---
 title: "Nabi Ismail"
+description: "Kisah Nabi Ismail alaihissalam, putra Nabi Ibrahim yang sabar dalam perintah kurban dan membangun Ka'bah"
 layout: default
 order: 8
 ---

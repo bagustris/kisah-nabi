@@ -1,5 +1,6 @@
 ---
 title: "Nabi Ayyub"
+description: "Kisah Nabi Ayyub alaihissalam, teladan kesabaran menghadapi ujian penyakit dan kehilangan harta"
 layout: default
 order: 12
 ---

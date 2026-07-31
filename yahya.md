@@ -1,5 +1,6 @@
 ---
 title: "Nabi Yahya"
+description: "Kisah Nabi Yahya alaihissalam, putra Nabi Zakariya yang teguh menegakkan kebenaran di hadapan penguasa"
 layout: default
 order: 23
 ---

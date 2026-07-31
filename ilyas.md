@@ -1,5 +1,6 @@
 ---
 title: "Nabi Ilyas"
+description: "Kisah Nabi Ilyas alaihissalam, nabi yang menentang penyembahan berhala Ba'al di kalangan Bani Israil"
 layout: default
 order: 19
 ---

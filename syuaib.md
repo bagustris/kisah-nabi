@@ -1,5 +1,6 @@
 ---
 title: "Nabi Syuaib"
+description: "Kisah Nabi Syuaib alaihissalam, nabi yang mengajarkan kejujuran dalam takaran dan timbangan kepada penduduk Madyan"
 layout: default
 order: 13
 ---

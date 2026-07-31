@@ -1,5 +1,6 @@
 ---
 title: "Nabi Nuh"
+description: "Kisah Nabi Nuh alaihissalam, nabi yang berdakwah selama 950 tahun dan membangun bahtera penyelamat dari banjir besar"
 layout: default
 order: 3
 ---

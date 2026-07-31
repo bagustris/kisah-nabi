@@ -1,5 +1,6 @@
 ---
 title: "Nabi Ilyasa"
+description: "Kisah Nabi Ilyasa alaihissalam, penerus dakwah Nabi Ilyas dengan mukjizat menyembuhkan dan menghidupkan"
 layout: default
 order: 20
 ---

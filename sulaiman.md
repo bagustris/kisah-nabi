@@ -1,5 +1,6 @@
 ---
 title: "Nabi Sulaiman"
+description: "Kisah Nabi Sulaiman alaihissalam, raja yang menguasai bahasa hewan dan memimpin bangsa jin serta manusia"
 layout: default
 order: 18
 ---
